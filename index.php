@@ -63,7 +63,7 @@ Preloader
     Vegas Slider Images 
     =================================-->
     <ul class="vegas-slides hidden" data-speed="6000">
-      <li><img data-fade='2000' src="img/BG/banner1.jpg" alt="" /></li>
+        <li><img data-fade='2000' src="img/BG/estampa-romantica.jpg" alt="" /></li>
       <li><img data-fade='2000' src="img/BG/parallax2.jpg" alt="" /></li>
       <li><img data-fade='2000' src="img/BG/banner3.jpg" alt="" /></li>
       <li><img data-fade='2000' src="img/BG/parallax5.jpg" alt="" /></li>
