@@ -6,7 +6,7 @@
 <!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Poison</title>
+<title>Chey producciones</title>
 
 <!--=================================
 Meta tags
@@ -32,7 +32,7 @@ Style Sheets
 <link rel="stylesheet" type="text/css" href="css/animations.css">
 <link rel="stylesheet" type="text/css" href="css/bigvideo.css">
 <link rel="stylesheet" type="text/css" href="css/jquery.mCustomScrollbar.css">
-<!--custom styles for Poison-->
+<!--custom styles for Chey producciones-->
 <link rel="stylesheet" href="css/main.css">
 
 <!--
@@ -464,7 +464,7 @@ Preloader
       
       <!--================
      Newsletter
-    ====================-->
+    ====================
       <section id="section_3" class="newsletter_section">
         <div class="container">
           <div class="row">
@@ -496,7 +496,7 @@ Preloader
       
       <!--======================================
     Parallax/facebook page promotion Section
-    ==========================================-->
+    ==========================================
       <section id="section_4" class="parallax parallax_one facebook_promo animatedParent " data-stellar-background-ratio="0.5">
         <div class="parallax_inner ">
           <div class="container">
@@ -505,13 +505,13 @@ Preloader
                 <h1 class="animated fadeInUp">Poison music</h1>
                 <h3 class="animated fadeInDown">"Like" If you love them! </h3>
                 <a href="#" class="btn btn_fb">like us on facebook</a> </div>
-              <!--column--> 
+              <!--column
             </div>
-            <!--row--> 
+            <!--row
           </div>
-          <!--container--> 
+          <!--container
         </div>
-        <!--parallax_inner--> 
+        <!--parallax_inner
       </section>
       <!--//parallax--> 
       
