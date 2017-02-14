@@ -1123,7 +1123,7 @@ a.playlist_expander{
 .team_stand img:nth-child(4) {
 	z-index:20;
 } 
-.team_stand img(5) {
+/*.team_stand img(5) {
 	z-index:10;
 } 
 

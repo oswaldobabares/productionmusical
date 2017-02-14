@@ -23,17 +23,17 @@ Style Sheets
 <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>
 <!--Plugins CSS Files-->
-<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css">
-<link rel="stylesheet" type="text/css" href="assets/css/owl.theme.css">
-<link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.css">
-<link rel="stylesheet" type="text/css" href="assets/css/owl.transitions.css">
-<link rel="stylesheet" type="text/css" href="assets/css/jquery.vegas.css">
-<link rel="stylesheet" type="text/css" href="assets/css/animations.css">
-<link rel="stylesheet" type="text/css" href="assets/css/bigvideo.css">
-<link rel="stylesheet" type="text/css" href="assets/css/jquery.mCustomScrollbar.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="css/owl.theme.css">
+<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="css/owl.transitions.css">
+<link rel="stylesheet" type="text/css" href="css/jquery.vegas.css">
+<link rel="stylesheet" type="text/css" href="css/animations.css">
+<link rel="stylesheet" type="text/css" href="css/bigvideo.css">
+<link rel="stylesheet" type="text/css" href="css/jquery.mCustomScrollbar.css">
 <!--custom styles for Poison-->
-<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="css/main.css">
 
 <!--
 <link rel="stylesheet" type="text/css" href="assets/css/colors/color1.css">
@@ -46,7 +46,7 @@ Style Sheets
 -->
 
 
-<script src="assets/js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 </head>
 
 <body data-spy="scroll" data-target="#sticktop" data-offset="70">
@@ -55,7 +55,7 @@ Preloader
 ========================================-->
 <div id="jSplash">
 	<figure class="preload_logo">
-		<img src="assets/img/basic/logo2.png" alt=""/>
+		<img src="img/basic/logo2.png" alt=""/>
 	</figure>
 </div>
 <div class="wide_layout box-wide">
@@ -63,10 +63,10 @@ Preloader
     Vegas Slider Images 
     =================================-->
     <ul class="vegas-slides hidden" data-speed="6000">
-      <li><img data-fade='2000' src="assets/img/BG/banner1.jpg" alt="" /></li>
-      <li><img data-fade='2000' src="assets/img/BG/parallax2.jpg" alt="" /></li>
-      <li><img data-fade='2000' src="assets/img/BG/banner3.jpg" alt="" /></li>
-      <li><img data-fade='2000' src="assets/img/BG/parallax5.jpg" alt="" /></li>
+      <li><img data-fade='2000' src="img/BG/banner1.jpg" alt="" /></li>
+      <li><img data-fade='2000' src="img/BG/parallax2.jpg" alt="" /></li>
+      <li><img data-fade='2000' src="img/BG/banner3.jpg" alt="" /></li>
+      <li><img data-fade='2000' src="img/BG/parallax5.jpg" alt="" /></li>
     </ul>
     <!--================
      Banner
@@ -176,7 +176,7 @@ Preloader
           <!--Add Songs In mp3 formate here-->
           <ul class=" playlist-files">
             <li 
-                   data-thumb="assets/img/media/media_01.jpg"
+                   data-thumb="img/media/media_01.jpg"
                    data-title="Blitzkrieg Bop - Ramones"
                     data-genre="punk"  
                    data-artist="Poision Studios" 
@@ -185,7 +185,7 @@ Preloader
                    data-video="http://xvelopers.com" 
                    data-mp3="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"></li>
             <li 
-                   data-thumb="assets/img/media/media_02.jpg"
+                   data-thumb="img/media/media_02.jpg"
                    data-title="Anarchy in the UK - Sex Pistols"
                     data-genre="punk"  
                    data-artist="Poision Studios" 
@@ -194,7 +194,7 @@ Preloader
                    data-video="http://xvelopers.com" 
                    data-mp3="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"></li>
             <li 
-                   data-thumb="assets/img/media/media_03.jpg"
+                   data-thumb="img/media/media_03.jpg"
                    data-title="Complete Control - The Clash"
                     data-genre="punk"  
                    data-artist="Poision Studios" 
@@ -203,7 +203,7 @@ Preloader
                    data-video="http://xvelopers.com" 
                    data-mp3="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"></li>
             <li 
-                   data-thumb="assets/img/media/media_04.jpg"
+                   data-thumb="img/media/media_04.jpg"
                    data-title="Kick Out the Jams - MC5"
                     data-genre="punk"  
                    data-artist="Poision Studios" 
@@ -212,7 +212,7 @@ Preloader
                    data-video="http://xvelopers.com" 
                    data-mp3="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"></li>
             <li 
-                   data-thumb="assets/img/media/media_05.jpg"
+                   data-thumb="img/media/media_05.jpg"
                    data-title="Holiday in Cambodia - Dead Kennedys"
                     data-genre="punk"  
                    data-artist="Poision Studios" 
@@ -262,7 +262,7 @@ Preloader
         <div class="container">
           <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-            <a class="navbar-brand" href="#"><img src="assets/img/basic/logo.png" alt="logo"/></a> </div>
+            <a class="navbar-brand" href="#"><img src="img/basic/logo.png" alt="logo"/></a> </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
               <li class="active"><a href="#section_2">News</a></li>
@@ -306,7 +306,7 @@ Preloader
           
           <div class="news_carousel animatedParent ">
             <div class="news_box fadeInUp animated">
-              <figure><img src="assets/img/news/n1.jpg" alt="" /></figure>
+              <figure><img src="img/news/n1.jpg" alt="" /></figure>
               <div class="news_info_wrapper">
                 <div class="news_info">
                   <h5>poison fragnances coming soon</h5>
@@ -330,7 +330,7 @@ Preloader
             <!--//news_box bounceInUp animated-->
             
             <div class="news_box fadeInUp animated">
-              <figure><img src="assets/img/news/n2.jpg" alt="" /></figure>
+              <figure><img src="img/news/n2.jpg" alt="" /></figure>
               <div class="news_info_wrapper">
                 <div class="news_info">
                   <h5>poison fragnances coming soon</h5>
@@ -354,7 +354,7 @@ Preloader
             <!--//news_box bounceInUp animated-->
             
             <div class="news_box fadeInUp animated">
-              <figure><img src="assets/img/news/n3.jpg" alt="" /></figure>
+              <figure><img src="img/news/n3.jpg" alt="" /></figure>
               <div class="news_info_wrapper">
                 <div class="news_info">
                   <h5>poison fragnances coming soon</h5>
@@ -378,7 +378,7 @@ Preloader
             <!--//news_box bounceInUp animated-->
             
             <div class="news_box fadeInUp animated">
-              <figure><img src="assets/img/news/n4.jpg" alt="" /></figure>
+              <figure><img src="img/news/n4.jpg" alt="" /></figure>
               <div class="news_info_wrapper">
                 <div class="news_info">
                   <h5>poison fragnances coming soon</h5>
@@ -402,7 +402,7 @@ Preloader
             <!--//news_box bounceInUp animated-->
             
             <div class="news_box fadeInUp animated">
-              <figure><img src="assets/img/news/n5.jpg" alt="" /></figure>
+              <figure><img src="img/news/n5.jpg" alt="" /></figure>
               <div class="news_info_wrapper">
                 <div class="news_info">
                   <h5>poison fragnances coming soon</h5>
@@ -426,7 +426,7 @@ Preloader
             <!--//news_box bounceInUp animated-->
             
             <div class="news_box fadeInUp animated">
-              <figure><img src="assets/img/news/n6.jpg" alt="" /></figure>
+              <figure><img src="img/news/n6.jpg" alt="" /></figure>
               <div class="news_info_wrapper">
                 <div class="news_info">
                   <h5>poison fragnances coming soon</h5>
@@ -473,11 +473,11 @@ Preloader
                 for our biggest poison fans!</h3>
               <div class="team_prizes"> 
               	<figure class="team_stand animatedParent" data-sequence="400">
-                	<img class="animated fadeInUp" data-id="1" src="assets/img/team/man1.png" alt=""/>
-                    <img class="animated fadeInRight" data-id="2" src="assets/img/team/man2.png" alt=""/>
-                    <img class="animated fadeInLeft" data-id="3" src="assets/img/team/man3.png" alt=""/>
-                    <img class="animated fadeInRight" data-id="4" src="assets/img/team/man4.png" alt=""/>
-                    <img class="animated fadeInLeft" data-id="5" src="assets/img/team/man5.png" alt=""/>
+                	<img class="animated fadeInUp" data-id="1" src="img/team/man1.png" alt=""/>
+                    <img class="animated fadeInRight" data-id="2" src="img/team/man2.png" alt=""/>
+                    <img class="animated fadeInLeft" data-id="3" src="img/team/man3.png" alt=""/>
+                    <img class="animated fadeInRight" data-id="4" src="img/team/man4.png" alt=""/>
+                    <img class="animated fadeInLeft" data-id="5" src="img/team/man5.png" alt=""/>
                 </figure>
                 <div class="newsletter_form">
                   <form>
@@ -545,7 +545,7 @@ Preloader
           <div class="row tracks_widget">
             <div class="col-sm-4 col-xs-12 animatedParent">
               <div class="track_box animated fadeInUp">
-                <figure><img src="assets/img/news/n1.jpg" alt="" /></figure>
+                <figure><img src="img/news/n1.jpg" alt="" /></figure>
                 <div class="track_info_wrapper">
                   <div class="track_info">
                     <h4>Loremipsum Per hour</h4>
@@ -563,7 +563,7 @@ Preloader
             
              <div class="col-sm-4 col-xs-12 animatedParent">
               <div class="track_box animated fadeInUp">
-                <figure><img src="assets/img/news/n2.jpg" alt="" /></figure>
+                <figure><img src="img/news/n2.jpg" alt="" /></figure>
                 <div class="track_info_wrapper">
                   <div class="track_info">
                     <h4>Loremipsum</h4>
@@ -581,7 +581,7 @@ Preloader
             
             <div class="col-sm-4 col-xs-12 animatedParent">
               <div class="track_box animated fadeInUp">
-                <figure><img src="assets/img/news/n3.jpg" alt="" /></figure>
+                <figure><img src="img/news/n3.jpg" alt="" /></figure>
                 <div class="track_info_wrapper">
                   <div class="track_info">
                     <h4>Against the lorem</h4>
@@ -599,7 +599,7 @@ Preloader
             
             <div class="col-sm-4 col-xs-12 animatedParent">
               <div class="track_box animated fadeInUp">
-                <figure><img src="assets/img/news/n4.jpg" alt="" /></figure>
+                <figure><img src="img/news/n4.jpg" alt="" /></figure>
                 <div class="track_info_wrapper">
                   <div class="track_info">
                     <h4>Everything is lorem</h4>
@@ -617,7 +617,7 @@ Preloader
             
             <div class="col-sm-4 col-xs-12 animatedParent">
               <div class="track_box animated fadeInUp">
-                <figure><img src="assets/img/news/n5.jpg" alt="" /></figure>
+                <figure><img src="img/news/n5.jpg" alt="" /></figure>
                 <div class="track_info_wrapper">
                   <div class="track_info">
                     <h4>Loremipsum myself</h4>
@@ -635,7 +635,7 @@ Preloader
             
             <div class="col-sm-4 col-xs-12 animatedParent">
               <div class="track_box animated fadeInUp">
-                <figure><img src="assets/img/news/n6.jpg" alt="" /></figure>
+                <figure><img src="img/news/n6.jpg" alt="" /></figure>
                 <div class="track_info_wrapper">
                   <div class="track_info">
                     <h4>The lorem Years</h4>
@@ -740,7 +740,7 @@ Preloader
             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
               <figure class="animated fadeInUp"> 
               	<a href="#" data-toggle="modal" data-target="#gal_pop">
-                	<img src="assets/img/media/media_01.jpg" alt="" />
+                	<img src="img/media/media_01.jpg" alt="" />
                 </a><!--hyperlink-->
                 <figcaption>
                   <h6>Behind the scenes</h6>
@@ -753,7 +753,7 @@ Preloader
             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
               <figure class="animated fadeInUp"> 
               	<a href="#" data-toggle="modal" data-target="#gal_pop2">
-                	<img src="assets/img/media/media_02.jpg" alt="" />
+                	<img src="img/media/media_02.jpg" alt="" />
                 </a><!--hyperlink-->
                 <figcaption>
                   <h6>poison in news</h6>
@@ -767,7 +767,7 @@ Preloader
             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
               <figure class="animated fadeInUp">  
               	<a href="#" data-toggle="modal" data-target="#gal_pop3">
-                	<img src="assets/img/media/media_03.jpg" alt="" />
+                	<img src="img/media/media_03.jpg" alt="" />
                 </a><!--hyperlink-->
                 <figcaption>
                   <h6>paris live concert</h6>
@@ -780,7 +780,7 @@ Preloader
             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
               <figure class="animated fadeInUp">
               	<a href="#" data-toggle="modal" data-target="#gal_pop4">
-                	<img src="assets/img/media/media_04.jpg" alt="" />
+                	<img src="img/media/media_04.jpg" alt="" />
                 </a><!--hyperlink-->
                 <figcaption>
                   <h6>poison in news</h6>
@@ -793,7 +793,7 @@ Preloader
             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
               <figure class="animated fadeInUp"> 
               	<a href="#" data-toggle="modal" data-target="#gal_pop5">
-                	<img src="assets/img/media/media_05.jpg" alt="" />
+                	<img src="img/media/media_05.jpg" alt="" />
                 </a><!--hyperlink-->
                 <figcaption>
                   <h6>photos by fans</h6>
@@ -806,7 +806,7 @@ Preloader
             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
               <figure class="animated fadeInUp"> 
               	<a href="#" data-toggle="modal" data-target="#gal_pop6">
-                	<img src="assets/img/media/media_06.jpg" alt="" />
+                	<img src="img/media/media_06.jpg" alt="" />
                 </a><!--hyperlink-->
                 <figcaption>
                   <h6>the lorem</h6>
@@ -819,7 +819,7 @@ Preloader
             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
               <figure class="animated fadeInUp">
               	<a href="#" data-toggle="modal" data-target="#gal_pop7">
-                	<img src="assets/img/media/media_07.jpg" alt="" />
+                	<img src="img/media/media_07.jpg" alt="" />
                 </a><!--hyperlink-->
                 <figcaption>
                   <h6>on red carpet</h6>
@@ -832,7 +832,7 @@ Preloader
             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
               <figure class="animated fadeInUp">
               	<a href="#" data-toggle="modal" data-target="#gal_pop8">
-                	<img src="assets/img/media/media_08.jpg" alt="" />
+                	<img src="img/media/media_08.jpg" alt="" />
                 </a><!--hyperlink-->
                 <figcaption>
                   <h6>during live concert</h6>
@@ -845,7 +845,7 @@ Preloader
            <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
               <figure class="animated fadeInUp"> 
               	<a href="#" data-toggle="modal" data-target="#gal_pop9">
-                	<img src="assets/img/media/media_09.jpg" alt="" />
+                	<img src="img/media/media_09.jpg" alt="" />
                 </a><!--hyperlink-->
                 <figcaption>
                   <h6>fashion show in dublin</h6>
@@ -858,7 +858,7 @@ Preloader
             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
               <figure class="animated fadeInUp"> 
               	<a href="#" data-toggle="modal" data-target="#gal_pop10">
-                	<img src="assets/img/media/media_10.jpg" alt="" />
+                	<img src="img/media/media_10.jpg" alt="" />
                 </a><!--hyperlink-->
                 <figcaption>
                   <h6>the Lorem</h6>
@@ -871,7 +871,7 @@ Preloader
             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
               <figure class="animated fadeInUp">
               	<a href="#" data-toggle="modal" data-target="#gal_pop11">
-                	<img src="assets/img/media/media_11.jpg" alt="" />
+                	<img src="img/media/media_11.jpg" alt="" />
                 </a><!--hyperlink-->
                 <figcaption>
                   <h6>party with friends</h6>
@@ -884,7 +884,7 @@ Preloader
             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
               <figure class="animated fadeInUp">
               	<a href="#" data-toggle="modal" data-target="#gal_pop12">
-                	<img src="assets/img/media/media_12.jpg" alt="" />
+                	<img src="img/media/media_12.jpg" alt="" />
                 </a><!--hyperlink-->
                 <figcaption>
                   <h6>during live concert</h6>
@@ -953,7 +953,7 @@ Preloader
                 <div class="column_one">
                   <span>10/10/14</span>
                 </div>
-                <div class="column_two"> <img src="assets/img/media/media_07.jpg" alt="" /> </div>
+                <div class="column_two"> <img src="img/media/media_07.jpg" alt="" /> </div>
                 <div class="column_three"> Lorem Center </div>
                 <div class="column_four"> Fairfax, VA US </div>
                 <div class="column_five"> vIP Offers Sold Out </div>
@@ -967,7 +967,7 @@ Preloader
                 <div class="column_one">
                   <span>10/11/14</span>
                 </div>
-                <div class="column_two"> <img src="assets/img/media/media_01.jpg" alt="" /> </div>
+                <div class="column_two"> <img src="img/media/media_01.jpg" alt="" /> </div>
                 <div class="column_three"> Lorem Events Center </div>
                 <div class="column_four"> Pittsburgh, PA US </div>
                 <div class="column_five"> with Emblem3 </div>
@@ -981,7 +981,7 @@ Preloader
                 <div class="column_one">
                   <span>15/11/14</span>
                 </div>
-                <div class="column_two"> <img src="assets/img/media/media_05.jpg" alt="" /> </div>
+                <div class="column_two"> <img src="img/media/media_05.jpg" alt="" /> </div>
                 <div class="column_three"> TD Lorem </div>
                 <div class="column_four"> Boston, MA US </div>
                 <div class="column_five"> with Emblem3 </div>
@@ -995,7 +995,7 @@ Preloader
                 <div class="column_one">
                   <span>20/11/14</span>
                 </div>
-                <div class="column_two"> <img src="assets/img/media/media_01.jpg" alt="" /> </div>
+                <div class="column_two"> <img src="img/media/media_01.jpg" alt="" /> </div>
                 <div class="column_three"> Lorem Center </div>
                 <div class="column_four"> Fairfax, VA US </div>
                 <div class="column_five"> vIP Offers Sold Out </div>
@@ -1009,7 +1009,7 @@ Preloader
                 <div class="column_one">
                   <span>25/11/14</span>
                 </div>
-                <div class="column_two"> <img src="assets/img/media/media_08.jpg" alt="" /> </div>
+                <div class="column_two"> <img src="img/media/media_08.jpg" alt="" /> </div>
                 <div class="column_three"> Wells Fargo Center </div>
                 <div class="column_four"> Philadelphia, PA US </div>
                 <div class="column_five"> with Emblem3 </div>
@@ -1023,7 +1023,7 @@ Preloader
                 <div class="column_one">
                   <span>30/11/14</span>
                 </div>
-                <div class="column_two"> <img src="assets/img/media/media_07.jpg" alt="" /> </div>
+                <div class="column_two"> <img src="img/media/media_07.jpg" alt="" /> </div>
                 <div class="column_three"> Lorem Center </div>
                 <div class="column_four"> Fairfax, VA US </div>
                 <div class="column_five"> vIP Offers Sold Out </div>
@@ -1037,7 +1037,7 @@ Preloader
                 <div class="column_one">
                   <span>1/12/14</span>
                 </div>
-                <div class="column_two"> <img src="assets/img/media/media_06.jpg" alt="" /> </div>
+                <div class="column_two"> <img src="img/media/media_06.jpg" alt="" /> </div>
                 <div class="column_three"> Lorem Center </div>
                 <div class="column_four"> Fairfax, VA US </div>
                 <div class="column_five"> with Emblem3 </div>
@@ -1051,7 +1051,7 @@ Preloader
                 <div class="column_one">
                   <span>10/12/14</span>
                 </div>
-                <div class="column_two"> <img src="assets/img/media/media_02.jpg" alt="" /> </div>
+                <div class="column_two"> <img src="img/media/media_02.jpg" alt="" /> </div>
                 <div class="column_three"> Lorem Center </div>
                 <div class="column_four"> Fairfax, VA US </div>
                 <div class="column_five"> vIP Offers Sold Out </div>
@@ -1065,7 +1065,7 @@ Preloader
                 <div class="column_one">
                   <span>15/12/14</span>
                 </div>
-                <div class="column_two"> <img src="assets/img/media/media_03.jpg" alt="" /> </div>
+                <div class="column_two"> <img src="img/media/media_03.jpg" alt="" /> </div>
                 <div class="column_three"> Lorem Center </div>
                 <div class="column_four"> Fairfax, VA US </div>
                 <div class="column_five"> with Emblem3 </div>
@@ -1079,7 +1079,7 @@ Preloader
                 <div class="column_one">
                   <span>20/12/14</span>
                 </div>
-                <div class="column_two"> <img src="assets/img/media/media_04.jpg" alt="" /> </div>
+                <div class="column_two"> <img src="img/media/media_04.jpg" alt="" /> </div>
                 <div class="column_three"> Lorem Center </div>
                 <div class="column_four"> Fairfax, VA US </div>
                 <div class="column_five"> vIP Offers Sold Out </div>
@@ -1093,7 +1093,7 @@ Preloader
                 <div class="column_one">
                   <span>25/12/14</span>
                 </div>
-                <div class="column_two"> <img src="assets/img/media/media_05.jpg" alt="" /> </div>
+                <div class="column_two"> <img src="img/media/media_05.jpg" alt="" /> </div>
                 <div class="column_three"> Ipsum! Center </div>
                 <div class="column_four"> Louisville, KY US </div>
                 <div class="column_five"> vIP Offers Sold Out </div>
@@ -1151,19 +1151,19 @@ Preloader
           <!--//controls_wrapper//carousel_overlay-->
           
           <div class="members_carousel animatedParent" data-sequence="400">
-            <figure class="animated fadeInLeft" data-id="1"> <img src="assets/img/team/member-1.jpg" alt=""/>
+            <figure class="animated fadeInLeft" data-id="1"> <img src="img/team/member-1.jpg" alt=""/>
               <figcaption><a href="#">jackson peterson</a></figcaption>
             </figure>
-            <figure class="animated fadeInLeft" data-id="2"> <img src="assets/img/team/member-2.jpg" alt=""/>
+            <figure class="animated fadeInLeft" data-id="2"> <img src="img/team/member-2.jpg" alt=""/>
               <figcaption><a href="#">willaims Adam Jonas</a></figcaption>
             </figure>
-            <figure class="animated fadeInLeft" data-id="3"> <img src="assets/img/team/member-3.jpg" alt=""/>
+            <figure class="animated fadeInLeft" data-id="3"> <img src="img/team/member-3.jpg" alt=""/>
               <figcaption><a href="#">jacobs Jerry Jonas</a></figcaption>
             </figure>
-            <figure class="animated fadeInLeft" data-id="4"> <img src="assets/img/team/member-4.jpg" alt=""/>
+            <figure class="animated fadeInLeft" data-id="4"> <img src="img/team/member-4.jpg" alt=""/>
               <figcaption><a href="#">michael Jonas II</a></figcaption>
             </figure>
-            <figure class="animated fadeInLeft" data-id="5"> <img src="assets/img/team/member-5.jpg" alt=""/>
+            <figure class="animated fadeInLeft" data-id="5"> <img src="img/team/member-5.jpg" alt=""/>
               <figcaption><a href="#">david Tomlinson</a></figcaption>
             </figure>
           </div>
@@ -1223,30 +1223,30 @@ Preloader
                     
                     <div class="galery_widget">
                         <ul class="gal_list">
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g5.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g6.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g7.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g8.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g9.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g10.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g11.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g12.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g13.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g14.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g15.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g16.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g17.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g18.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g19.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g20.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt=""/></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                         </ul>
                         
                         <ul class="social_share">
@@ -1285,30 +1285,30 @@ Preloader
                     
                     <div class="galery_widget">
                         <ul class="gal_list">
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g5.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g6.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g7.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g8.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g9.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g10.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g11.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g12.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g13.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g14.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g15.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g16.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g17.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g18.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g19.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g20.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt=""/></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                         </ul>
                         
                         <ul class="social_share">
@@ -1347,30 +1347,30 @@ Preloader
                     
                     <div class="galery_widget">
                         <ul class="gal_list">
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g5.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g6.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g7.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g8.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g9.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g10.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g11.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g12.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g13.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g14.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g15.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g16.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g17.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g18.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g19.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g20.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt=""/></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                         </ul>
                         
                         <ul class="social_share">
@@ -1409,30 +1409,30 @@ Preloader
                     
                     <div class="galery_widget">
                         <ul class="gal_list">
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g5.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g6.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g7.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g8.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g9.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g10.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g11.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g12.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g13.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g14.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g15.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g16.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g17.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g18.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g19.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g20.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt=""/></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                         </ul>
                         
                         <ul class="social_share">
@@ -1471,30 +1471,30 @@ Preloader
                     
                     <div class="galery_widget">
                         <ul class="gal_list">
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g5.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g6.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g7.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g8.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g9.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g10.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g11.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g12.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g13.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g14.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g15.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g16.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g17.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g18.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g19.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g20.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt=""/></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                         </ul>
                         
                         <ul class="social_share">
@@ -1533,30 +1533,30 @@ Preloader
                     
                     <div class="galery_widget">
                         <ul class="gal_list">
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g5.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g6.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g7.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g8.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g9.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g10.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g11.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g12.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g13.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g14.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g15.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g16.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g17.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g18.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g19.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g20.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt=""/></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                         </ul>
                         
                         <ul class="social_share">
@@ -1595,30 +1595,30 @@ Preloader
                     
                     <div class="galery_widget">
                         <ul class="gal_list">
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g5.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g6.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g7.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g8.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g9.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g10.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g11.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g12.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g13.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g14.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g15.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g16.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g17.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g18.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g19.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g20.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt=""/></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                         </ul>
                         
                         <ul class="social_share">
@@ -1657,30 +1657,30 @@ Preloader
                     
                     <div class="galery_widget">
                         <ul class="gal_list">
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g5.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g6.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g7.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g8.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g9.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g10.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g11.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g12.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g13.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g14.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g15.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g16.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g17.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g18.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g19.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g20.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt=""/></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                         </ul>
                         
                         <ul class="social_share">
@@ -1719,30 +1719,30 @@ Preloader
                     
                     <div class="galery_widget">
                         <ul class="gal_list">
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g5.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g6.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g7.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g8.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g9.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g10.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g11.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g12.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g13.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g14.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g15.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g16.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g17.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g18.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g19.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g20.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt=""/></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                         </ul>
                         
                         <ul class="social_share">
@@ -1781,30 +1781,30 @@ Preloader
                     
                     <div class="galery_widget">
                         <ul class="gal_list">
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g5.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g6.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g7.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g8.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g9.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g10.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g11.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g12.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g13.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g14.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g15.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g16.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g17.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g18.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g19.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g20.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt=""/></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                         </ul>
                         
                         <ul class="social_share">
@@ -1843,30 +1843,30 @@ Preloader
                     
                     <div class="galery_widget">
                         <ul class="gal_list">
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g5.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g6.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g7.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g8.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g9.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g10.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g11.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g12.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g13.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g14.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g15.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g16.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g17.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g18.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g19.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g20.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt=""/></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                         </ul>
                         
                         <ul class="social_share">
@@ -1905,30 +1905,30 @@ Preloader
                     
                     <div class="galery_widget">
                         <ul class="gal_list">
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g5.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g6.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g7.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g8.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g9.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g10.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g11.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g12.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g13.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g14.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g15.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g16.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g17.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g18.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g19.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g20.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g1.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g2.jpg" alt="" /></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g3.jpg" alt=""/></a></li>
-                            <li class="trigger_slider"><a href="#"><img src="assets/img/gallery/g4.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
+                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                         </ul>
                         
                         <ul class="social_share">
@@ -2027,32 +2027,32 @@ Preloader
 <!--===================================================================
 Scripts
 ====================================================================--> 
-<script src="assets/js/jquery-1.11.0.min.js"></script> 
-<script src="assets/js/jpreloader.min.js"></script>
-<script src="assets/js/jquery.mousewheel.min.js"></script> 
-<script src="assets/js/bootstrap.min.js"></script> 
-<script src="assets/js/jquery.easing-1.3.pack.js"></script> 
-<script src="assets/js/jquery.stellar.min.js"></script>
-<script src="assets/js/owl.carousel.min.js"></script> 
-<script src="assets/js/jquery.carouFredSel-6.2.1-packed.js"></script> 
-<script src="assets/js/tweetie.min.js"></script> 
-<script src="assets/js/jquery.sticky.js"></script> 
-<script src="assets/jPlayer/jquery.jplayer.min.js"></script> 
-<script src="assets/jPlayer/add-on/jplayer.playlist.min.js"></script> 
-<script src="assets/js/jquery.vegas.min.js"></script> 
-<script src="assets/js/css3-animate-it.js"></script> 
-<script src="assets/js/jquery.fractionslider.min.js"></script> 
-<script src="assets/js/jquery.mCustomScrollbar.min.js"></script> 
-<script src="assets/js/jquery.waitforimages.js"></script>
-<script src="assets/js/video.js"></script>
-<script src="assets/js/bigvideo.js"></script>
-<script src="assets/js/main.js"></script>  
+<script src="js/jquery-1.11.0.min.js"></script> 
+<script src="js/jpreloader.min.js"></script>
+<script src="js/jquery.mousewheel.min.js"></script> 
+<script src="js/bootstrap.min.js"></script> 
+<script src="js/jquery.easing-1.3.pack.js"></script> 
+<script src="js/jquery.stellar.min.js"></script>
+<script src="js/owl.carousel.min.js"></script> 
+<script src="js/jquery.carouFredSel-6.2.1-packed.js"></script> 
+<script src="js/tweetie.min.js"></script> 
+<script src="js/jquery.sticky.js"></script> 
+<script src="jPlayer/jquery.jplayer.min.js"></script> 
+<script src="jPlayer/add-on/jplayer.playlist.min.js"></script> 
+<script src="js/jquery.vegas.min.js"></script> 
+<script src="js/css3-animate-it.js"></script> 
+<script src="js/jquery.fractionslider.min.js"></script> 
+<script src="js/jquery.mCustomScrollbar.min.js"></script> 
+<script src="js/jquery.waitforimages.js"></script>
+<script src="js/video.js"></script>
+<script src="js/bigvideo.js"></script>
+<script src="js/main.js"></script>  
 <script>
 
 $('body').jpreLoader({
 		splashID: "#jSplash",
 		loaderVPos: '50%',
-		autoClose: true,
+		autoClose: true
 });
 /*====================================================================
 Put Your Google Tracker Code here
