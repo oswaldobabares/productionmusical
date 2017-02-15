@@ -100,8 +100,8 @@ body {
 =============================*/
 
 .sections_wrapper{
-	/*background: url(../img/BG/bodyBG.jpg) center center #161616;*/
-        background-color: #5c5c5c;
+	background: url(../img/BG/bodyBG.jpg) center center #161616;
+        /*background-color: #5c5c5c;*/
 }
 .boxed_in{
 	max-width:1200px;
@@ -1579,7 +1579,7 @@ a.btn_itunes:hover{
 	color: #cc1313;
 	display: table;
 	clear: both;
-	width: 100%;
+	width: 80%;
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
@@ -1610,7 +1610,7 @@ a.btn_itunes:hover{
 .tour_row, .music_row {
 	display: table;
 	clear: both;
-	width: 100%;
+	width: 80%;
 	border-top: 1px solid #343434;
 	border-bottom: 0px solid #fff;
 	padding-bottom: 1px;
@@ -1688,6 +1688,7 @@ a.btn_itunes:hover{
 	background:#fff;
 	padding:40px 48px 62px 48px;
 	position:relative;
+        text-align: -webkit-center;
 }
 ul.music_widget{
 	display:block;
@@ -1748,7 +1749,7 @@ ul.music_widget > li{
 	float: left;
 }
 .music_widget .column_seven {
-	width: 115px;
+	width: 15px;
 	float: left;
 }
 
