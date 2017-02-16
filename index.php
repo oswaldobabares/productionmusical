@@ -64,9 +64,9 @@
             =================================-->
             <ul class="vegas-slides hidden" data-speed="6000">
                 <li><img data-fade='2000' src="img/BG/header03.jpg" alt="" /></li>
-                <li><img data-fade='2000' src="img/BG/header04.jpg" alt="" /></li>
-                <li><img data-fade='2000' src="img/BG/header.jpg" alt="" /></li>
-                <li><img data-fade='2000' src="img/BG/header02.jpg" alt="" /></li>
+                <!--<li><img data-fade='2000' src="img/BG/header05.jpg" alt="" /></li>
+                <li><img data-fade='2000' src="img/BG/header03.jpg" alt="" /></li>
+                <li><img data-fade='2000' src="img/BG/header02.jpg" alt="" /></li>-->
             </ul>
             <!--================
              Banner
@@ -76,7 +76,7 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="hero_content animatedParent animateLoop">
-                                <h1 class="animated bounceInDown">LA MUISCA NUNCA MUERE<span class="primary_color">.</span></h1>
+                                <h1 class="animated bounceInDown">CREANDO Y PRODUCIENDO MÚSICA<span class="primary_color">.</span></h1>
                                 <h4 class="animated bounceInLeft ">Chey producciones</h4>
                                 <a class="ScrollTo animated bounceInUp" href="#section_2"><i class="fa fa-angle-down"></i></a> 
                             </div>
@@ -98,7 +98,7 @@
                                             <div class="column_two"> &nbsp;<!--no header for picture column--> 
                                             </div>
                                             <div class="column_three"> nombre </div>
-                                            <div class="column_four"> generi </div>
+                                            <div class="column_four"> genero </div>
                                             <div class="column_five"> compositor </div>
                                             <div class="column_six"> duracion </div>
                                             <div class="column_seven"> &nbsp;<!--no header for play column--> 
@@ -264,12 +264,12 @@
                             <a class="navbar-brand" href="#"><img src="img/basic/logo.png" alt="logo"/></a> </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
-                                <li class="active"><a href="#section_2">News</a></li>
-                                <li><a href="#section_5">Music</a></li>
-                                <li><a href="#section_7">Media</a></li>
-                                <li><a href="#section_9">Tours</a></li>
+                                <li class="active"><a href="#section_2">Servicios</a></li>
+                                <li><a href="#section_5">Musica</a></li>
+                                <li><a href="#section_7">Videos</a></li>
+                                <li><a href="#section_9">Conoceme</a></li>
                                 <li><a href="#section_11">Band</a></li>
-                                <li><a href="#section_13">Connect</a></li>
+                                <li><a href="#section_13">Contactame</a></li>
                             </ul>
                         </div>
                         <!--/.nav-collapse --> 
@@ -287,7 +287,7 @@
                         <div class="row">
                             <div class="col-xs-12">
                                 <div class="section_head_widget">
-                                    <h2 class="animated fadeInDown">poison news</h2>
+                                    <h2 class="animated fadeInDown">Servicios</h2>
                                     <h5 class="animated fadeInLeft">latest articles</h5>
                                 </div>
                             </div>
