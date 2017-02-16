@@ -297,10 +297,10 @@
                     </div>
                     <!--contaier-->
                     <div class="news_widget">
-                        <div class="container controls_wrapper animatedParent ">
+                        <!--<div class="container controls_wrapper animatedParent ">
                             <div class="carousel_controls"> <span id="news-prev" class="fa fa-angle-left animated fadeInLeft"></span> <span id="news-next" class="fa fa-angle-right animated bounceInRight "></span> </div>
-                            <!--controls--> 
-                        </div>
+                            <!--controls
+                        </div>-->
                         <!--//controls_wrapper//carousel_overlay-->
 
                         <div class="news_carousel animatedParent ">
@@ -309,144 +309,96 @@
                                 <div class="news_info_wrapper">
                                     <div class="news_info">
                                         <h5>poison fragnances coming soon</h5>
-                                        <ul class="news_meta">
+                                        <!--<ul class="news_meta">
                                             <li>by POISON</li>
                                             <li>Sep 20, 2013</li>
-                                        </ul>
+                                        </ul>-->
                                         <!--//news_meta-->
-                                        <h6>3 comments</h6>
+                                        <!--<h6>3 comments</h6>-->
                                     </div>
                                     <!--news_info--> 
                                 </div>
                                 <!--//news_info_wrapper-->
-                                <div class="hover"> 
+                                <!--<div class="hover"> 
                                     <a class="triggerNews" href="news.html" data-number="1">
                                         Read Full Article
                                     </a> 
-                                </div>
+                                </div>--> 
                                 <!--//hover--> 
                             </div>
                             <!--//news_box bounceInUp animated-->
 
                             <div class="news_box fadeInUp animated">
-                                <figure><img src="img/news/n2.jpg" alt="" /></figure>
+                                <figure><img src="img/news/n1.jpg" alt="" /></figure>
                                 <div class="news_info_wrapper">
                                     <div class="news_info">
                                         <h5>poison fragnances coming soon</h5>
-                                        <ul class="news_meta">
+                                        <!--<ul class="news_meta">
                                             <li>by POISON</li>
                                             <li>Sep 20, 2013</li>
-                                        </ul>
+                                        </ul>-->
                                         <!--//news_meta-->
-                                        <h6>3 comments</h6>
+                                        <!--<h6>3 comments</h6>-->
                                     </div>
                                     <!--news_info--> 
                                 </div>
                                 <!--//news_info_wrapper-->
-                                <div class="hover">
-                                    <a class="triggerNews" href="news.html" data-number="2">
+                                <!--<div class="hover"> 
+                                    <a class="triggerNews" href="news.html" data-number="1">
                                         Read Full Article
-                                    </a>
-                                </div>
+                                    </a> 
+                                </div>--> 
                                 <!--//hover--> 
                             </div>
                             <!--//news_box bounceInUp animated-->
 
                             <div class="news_box fadeInUp animated">
-                                <figure><img src="img/news/n3.jpg" alt="" /></figure>
+                                <figure><img src="img/news/n1.jpg" alt="" /></figure>
                                 <div class="news_info_wrapper">
                                     <div class="news_info">
                                         <h5>poison fragnances coming soon</h5>
-                                        <ul class="news_meta">
+                                        <!--<ul class="news_meta">
                                             <li>by POISON</li>
                                             <li>Sep 20, 2013</li>
-                                        </ul>
+                                        </ul>-->
                                         <!--//news_meta-->
-                                        <h6>3 comments</h6>
+                                        <!--<h6>3 comments</h6>-->
                                     </div>
                                     <!--news_info--> 
                                 </div>
                                 <!--//news_info_wrapper-->
-                                <div class="hover"> 
-                                    <a class="triggerNews" href="news.html" data-number="3">
+                                <!--<div class="hover"> 
+                                    <a class="triggerNews" href="news.html" data-number="1">
                                         Read Full Article
-                                    </a>
-                                </div>
+                                    </a> 
+                                </div>--> 
                                 <!--//hover--> 
                             </div>
                             <!--//news_box bounceInUp animated-->
 
                             <div class="news_box fadeInUp animated">
-                                <figure><img src="img/news/n4.jpg" alt="" /></figure>
+                                <figure><img src="img/news/n1.jpg" alt="" /></figure>
                                 <div class="news_info_wrapper">
                                     <div class="news_info">
                                         <h5>poison fragnances coming soon</h5>
-                                        <ul class="news_meta">
+                                        <!--<ul class="news_meta">
                                             <li>by POISON</li>
                                             <li>Sep 20, 2013</li>
-                                        </ul>
+                                        </ul>-->
                                         <!--//news_meta-->
-                                        <h6>3 comments</h6>
+                                        <!--<h6>3 comments</h6>-->
                                     </div>
                                     <!--news_info--> 
                                 </div>
                                 <!--//news_info_wrapper-->
-                                <div class="hover"> 
-                                    <a class="triggerNews" href="news.html" data-number="4">
+                                <!--<div class="hover"> 
+                                    <a class="triggerNews" href="news.html" data-number="1">
                                         Read Full Article
-                                    </a>
-                                </div>
+                                    </a> 
+                                </div>--> 
                                 <!--//hover--> 
                             </div>
                             <!--//news_box bounceInUp animated-->
-
-                            <div class="news_box fadeInUp animated">
-                                <figure><img src="img/news/n5.jpg" alt="" /></figure>
-                                <div class="news_info_wrapper">
-                                    <div class="news_info">
-                                        <h5>poison fragnances coming soon</h5>
-                                        <ul class="news_meta">
-                                            <li>by POISON</li>
-                                            <li>Sep 20, 2013</li>
-                                        </ul>
-                                        <!--//news_meta-->
-                                        <h6>3 comments</h6>
-                                    </div>
-                                    <!--news_info--> 
-                                </div>
-                                <!--//news_info_wrapper-->
-                                <div class="hover"> 
-                                    <a class="triggerNews" href="news.html" data-number="5">
-                                        Read Full Article
-                                    </a>
-                                </div>
-                                <!--//hover--> 
-                            </div>
-                            <!--//news_box bounceInUp animated-->
-
-                            <div class="news_box fadeInUp animated">
-                                <figure><img src="img/news/n6.jpg" alt="" /></figure>
-                                <div class="news_info_wrapper">
-                                    <div class="news_info">
-                                        <h5>poison fragnances coming soon</h5>
-                                        <ul class="news_meta">
-                                            <li>by POISON</li>
-                                            <li>Sep 20, 2013</li>
-                                        </ul>
-                                        <!--//news_meta-->
-                                        <h6>3 comments</h6>
-                                    </div>
-                                    <!--news_info--> 
-                                </div>
-                                <!--//news_info_wrapper-->
-                                <div class="hover"> 
-                                    <a class="triggerNews" href="news.html" data-number="6">
-                                        Read Full Article
-                                    </a>
-                                </div>
-                                <!--//hover--> 
-                            </div>
-                            <!--//news_box bounceInUp animated--> 
 
                         </div>
                         <!--//news_carousel--> 
@@ -456,10 +408,10 @@
                 </section>
                 <!--//News--> 
 
-                <section id="newsAjaxWrapper" class="container">
+                <!--<section id="newsAjaxWrapper" class="container">
                     <a class="closeNewsAjax" href="#section_2"><i class="fa fa-times"></i></a>
                     <div id="newsAjax" class="content_expander"></div>
-                </section>
+                </section>-->
 
                 <!--================
                Newsletter
