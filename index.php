@@ -78,7 +78,7 @@
                             <div class="hero_content animatedParent animateLoop">
                                 <h1 class="animated bounceInDown">CREANDO Y PRODUCIENDO MÚSICA<span class="primary_color">.</span></h1>
                                 <h4 class="animated bounceInLeft ">Chey producciones</h4>
-                                <a class="ScrollTo animated bounceInUp" href="#section_2"><i class="fa fa-angle-down"></i></a> 
+                                <a class="ScrollTo animated bounceInUp" href="#section_5"><i class="fa fa-angle-down"></i></a> 
                             </div>
                         </div>
                     </div>
@@ -89,21 +89,21 @@
                 <!--Do not edit this section Unless you have to modify HTML structure of Playlist-->
                 <div class="rock_player pre_sticky">
                     <div class="sticky_player" data-sticky="true">
-                        <div class="play_list">
+                        <!--<div class="play_list">
                             <div class="list_scroll">
                                 <div class="container ">
                                     <ul class="music_widget player_data">
                                         <li class="music_row_header">
                                             <div class="column_one"> # </div>
-                                            <div class="column_two"> &nbsp;<!--no header for picture column--> 
+                                            <div class="column_two"> &nbsp;<!--no header for picture column
                                             </div>
                                             <div class="column_three"> nombre </div>
                                             <div class="column_four"> genero </div>
                                             <div class="column_five"> compositor </div>
                                             <div class="column_six"> duracion </div>
-                                            <div class="column_seven"> &nbsp;<!--no header for play column--> 
+                                            <div class="column_seven"> &nbsp;<!--no header for play column
                                             </div>
-                                            <div class="column_eight"> &nbsp;<!--no header for btn column--> 
+                                            <div class="column_eight"> &nbsp;<!--no header for btn column
                                             </div>
                                         </li>
                                         <li class="music_row">
@@ -115,7 +115,18 @@
                                             <div class="column_six track_length"></div>
                                             <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
                                         </li>
-                                        <!--music row-->
+                                        music row-->
+
+                                        <!--<li class="music_row">
+                                            <div class="column_one track_index"></div>
+                                            <div class="column_two track_thumb"></div>
+                                            <div class="column_three track_title"></div>
+                                            <div class="column_four track_genre"></div>
+                                            <div class="column_five track_composer"></div>
+                                            <div class="column_six track_length"></div>
+                                            <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
+                                        </li>
+                                        <!--music row
 
                                         <li class="music_row">
                                             <div class="column_one track_index"></div>
@@ -126,7 +137,7 @@
                                             <div class="column_six track_length"></div>
                                             <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
                                         </li>
-                                        <!--music row-->
+                                        <!--music row
 
                                         <li class="music_row">
                                             <div class="column_one track_index"></div>
@@ -137,7 +148,7 @@
                                             <div class="column_six track_length"></div>
                                             <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
                                         </li>
-                                        <!--music row-->
+                                        <!--music row
 
                                         <li class="music_row">
                                             <div class="column_one track_index"></div>
@@ -148,22 +159,11 @@
                                             <div class="column_six track_length"></div>
                                             <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
                                         </li>
-                                        <!--music row-->
-
-                                        <li class="music_row">
-                                            <div class="column_one track_index"></div>
-                                            <div class="column_two track_thumb"></div>
-                                            <div class="column_three track_title"></div>
-                                            <div class="column_four track_genre"></div>
-                                            <div class="column_five track_composer"></div>
-                                            <div class="column_six track_length"></div>
-                                            <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
-                                        </li>
-                                        <!--music row-->
+                                        <!--music row
                                     </ul>
-                                    <!--music_widget--> 
+                                    <!--music_widget
                                 </div>
-                                <!--container--> 
+                                <!--container
                             </div>
                         </div>
 
@@ -182,7 +182,7 @@
                                     data-itunes="http://xvelopers.com" 
                                     data-video="http://xvelopers.com" 
                                     data-mp3="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"></li>
-                                <li 
+                                <!--<li 
                                     data-thumb="img/media/media_02.jpg"
                                     data-title="Anarchy in the UK - Sex Pistols"
                                     data-genre="punk"  
@@ -217,7 +217,7 @@
                                     data-length="3:30" 
                                     data-itunes="http://xvelopers.com" 
                                     data-video="http://xvelopers.com" 
-                                    data-mp3="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"></li>
+                                    data-mp3="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"></li>-->
                             </ul>
                             <!--Playlist ends--> 
                         </div>
@@ -247,10 +247,11 @@
                                         <li><a href="#"></a></li>
                                     </ul>
                                 </div>
-                                <a href="#" class="playlist_expander fa fa-bars"></a> 
+                                <div class="playlist_expander"></div>
                             </div>
                         </div>
-                    </div></div>
+                    </div>
+                </div>
             </section>
             <!--//banner--> 
             <!--=========================
@@ -264,9 +265,8 @@
                             <a class="navbar-brand" href="#"><img src="img/basic/logo.png" alt="logo"/></a> </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
-                                <li class="active"><a href="#section_2">Servicios</a></li>
-                                <li><a href="#section_5">Musica</a></li>
-                                <li><a href="#section_7">Videos</a></li>
+                                <li class="active"><a href="#section_5">Servicios</a></li>
+                                <li><a href="#section_7">Repertorio</a></li>
                                 <li><a href="#section_9">Conoceme</a></li>
                                 <li><a href="#section_11">Band</a></li>
                                 <li><a href="#section_13">Contactame</a></li>
@@ -282,7 +282,7 @@
                News
               ====================-->
 
-                <section id="section_2" class="news_section section_first">
+                <!--<section id="section_2" class="news_section section_first">
                     <div class="container animatedParent ">
                         <div class="row">
                             <div class="col-xs-12">
@@ -291,17 +291,17 @@
                                     <h5 class="animated fadeInLeft">latest articles</h5>
                                 </div>
                             </div>
-                            <!--column--> 
+                            <!--column
                         </div>
-                        <!--row--> 
+                        <!--row
                     </div>
-                    <!--contaier-->
+                    <!--contaier
                     <div class="news_widget">
                         <!--<div class="container controls_wrapper animatedParent ">
                             <div class="carousel_controls"> <span id="news-prev" class="fa fa-angle-left animated fadeInLeft"></span> <span id="news-next" class="fa fa-angle-right animated bounceInRight "></span> </div>
                             <!--controls
                         </div>-->
-                        <!--//controls_wrapper//carousel_overlay-->
+                        <!--//controls_wrapper//carousel_overlay
 
                         <div class="news_carousel animatedParent ">
                             <div class="news_box fadeInUp animated">
@@ -314,9 +314,9 @@
                                             <li>Sep 20, 2013</li>
                                         </ul>-->
                                         <!--//news_meta-->
-                                        <!--<h6>3 comments</h6>-->
+                                        <!--<h6>3 comments</h6>
                                     </div>
-                                    <!--news_info--> 
+                                    <!--news_info
                                 </div>
                                 <!--//news_info_wrapper-->
                                 <!--<div class="hover"> 
@@ -324,9 +324,9 @@
                                         Read Full Article
                                     </a> 
                                 </div>--> 
-                                <!--//hover--> 
+                                <!--//hover
                             </div>
-                            <!--//news_box bounceInUp animated-->
+                            <!--//news_box bounceInUp animated
 
                             <div class="news_box fadeInUp animated">
                                 <figure><img src="img/news/n1.jpg" alt="" /></figure>
@@ -338,9 +338,9 @@
                                             <li>Sep 20, 2013</li>
                                         </ul>-->
                                         <!--//news_meta-->
-                                        <!--<h6>3 comments</h6>-->
+                                        <!--<h6>3 comments</h6>
                                     </div>
-                                    <!--news_info--> 
+                                    <!--news_info
                                 </div>
                                 <!--//news_info_wrapper-->
                                 <!--<div class="hover"> 
@@ -348,9 +348,9 @@
                                         Read Full Article
                                     </a> 
                                 </div>--> 
-                                <!--//hover--> 
+                                <!--//hover
                             </div>
-                            <!--//news_box bounceInUp animated-->
+                            <!--//news_box bounceInUp animated
 
                             <div class="news_box fadeInUp animated">
                                 <figure><img src="img/news/n1.jpg" alt="" /></figure>
@@ -362,9 +362,9 @@
                                             <li>Sep 20, 2013</li>
                                         </ul>-->
                                         <!--//news_meta-->
-                                        <!--<h6>3 comments</h6>-->
+                                        <!--<h6>3 comments</h6>
                                     </div>
-                                    <!--news_info--> 
+                                    <!--news_info
                                 </div>
                                 <!--//news_info_wrapper-->
                                 <!--<div class="hover"> 
@@ -372,9 +372,9 @@
                                         Read Full Article
                                     </a> 
                                 </div>--> 
-                                <!--//hover--> 
+                                <!--//hover
                             </div>
-                            <!--//news_box bounceInUp animated-->
+                            <!--//news_box bounceInUp animated
 
                             <div class="news_box fadeInUp animated">
                                 <figure><img src="img/news/n1.jpg" alt="" /></figure>
@@ -386,9 +386,9 @@
                                             <li>Sep 20, 2013</li>
                                         </ul>-->
                                         <!--//news_meta-->
-                                        <!--<h6>3 comments</h6>-->
+                                        <!--<h6>3 comments</h6>
                                     </div>
-                                    <!--news_info--> 
+                                    <!--news_info
                                 </div>
                                 <!--//news_info_wrapper-->
                                 <!--<div class="hover"> 
@@ -396,15 +396,15 @@
                                         Read Full Article
                                     </a> 
                                 </div>--> 
-                                <!--//hover--> 
+                                <!--//hover
                             </div>
-                            <!--//news_box bounceInUp animated-->
+                            <!--//news_box bounceInUp animated
 
                         </div>
-                        <!--//news_carousel--> 
+                        <!--//news_carousel
 
                     </div>
-                    <!--//news_widget--> 
+                    <!--//news_widget
                 </section>
                 <!--//News--> 
 
@@ -474,12 +474,12 @@
                         <div class="row">
                             <div class="col-xs-12 col-sm-8">
                                 <div class="section_head_widget animatedParent ">
-                                    <h2 class="animated fadeInLeft">poison Music</h2>
-                                    <h5 class="animated bounceInRight">All Albums</h5>
+                                    <h2 class="animated fadeInLeft">Chey services</h2>
+                                    <h5 class="animated bounceInRight">All services</h5>
                                 </div>
                                 <!--section_head_widget--> 
                             </div>
-                            <div class="col-xs-12 col-sm-4 text-right">
+                            <!--<div class="col-xs-12 col-sm-4 text-right">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
                                         2014 <span class="fa fa-caret-down"></span>
@@ -490,7 +490,7 @@
                                         <li><a href="#">2011</a></li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div>-->
                         </div>
                         <!--row-->
                         <div class="row tracks_widget">
@@ -500,11 +500,10 @@
                                     <div class="track_info_wrapper">
                                         <div class="track_info">
                                             <h4>Loremipsum Per hour</h4>
-                                            <h6>13 tracks</h6>
                                         </div>
                                         <!--news_info--> 
                                     </div>
-                                    <!--//news_info_wrapper-->
+                                    <!--//news_info_wrapper
                                     <div class="hover"> <a class="triggerTrack" href="albums.html" data-number="1"> Read Full Article </a> </div>
                                     <!--//hover--> 
                                 </div>
@@ -518,11 +517,10 @@
                                     <div class="track_info_wrapper">
                                         <div class="track_info">
                                             <h4>Loremipsum</h4>
-                                            <h6>12 tracks</h6>
                                         </div>
                                         <!--news_info--> 
                                     </div>
-                                    <!--//news_info_wrapper-->
+                                    <!--//news_info_wrapper
                                     <div class="hover">  <a class="triggerTrack" href="albums.html" data-number="2"> Read Full Article </a> </div>
                                     <!--//hover--> 
                                 </div>
@@ -536,11 +534,10 @@
                                     <div class="track_info_wrapper">
                                         <div class="track_info">
                                             <h4>Against the lorem</h4>
-                                            <h6>12 tracks</h6>
                                         </div>
                                         <!--news_info--> 
                                     </div>
-                                    <!--//news_info_wrapper-->
+                                    <!--//news_info_wrapper
                                     <div class="hover"> <a class="triggerTrack" href="albums.html" data-number="3"> Read Full Article </a> </div>
                                     <!--//hover--> 
                                 </div>
@@ -554,11 +551,10 @@
                                     <div class="track_info_wrapper">
                                         <div class="track_info">
                                             <h4>Everything is lorem</h4>
-                                            <h6>11 tracks</h6>
                                         </div>
                                         <!--news_info--> 
                                     </div>
-                                    <!--//news_info_wrapper-->
+                                    <!--//news_info_wrapper
                                     <div class="hover"> <a class="triggerTrack" href="albums.html" data-number="4"> Read Full Article </a> </div>
                                     <!--//hover--> 
                                 </div>
@@ -572,11 +568,10 @@
                                     <div class="track_info_wrapper">
                                         <div class="track_info">
                                             <h4>Loremipsum myself</h4>
-                                            <h6>9 tracks</h6>
                                         </div>
                                         <!--news_info--> 
                                     </div>
-                                    <!--//news_info_wrapper-->
+                                    <!--//news_info_wrapper
                                     <div class="hover"> <a class="triggerTrack" href="albums.html" data-number="5"> Read Full Article </a> </div>
                                     <!--//hover--> 
                                 </div>
@@ -590,11 +585,10 @@
                                     <div class="track_info_wrapper">
                                         <div class="track_info">
                                             <h4>The lorem Years</h4>
-                                            <h6>14 tracks</h6>
                                         </div>
                                         <!--news_info--> 
                                     </div>
-                                    <!--//news_info_wrapper-->
+                                    <!--//news_info_wrapper
                                     <div class="hover"> <a class="triggerTrack" href="albums.html" data-number="6"> Read Full Article </a> </div>
                                     <!--//hover--> 
                                 </div>
@@ -604,8 +598,8 @@
                         </div>
 
                     </div>
-                    <div class="clearfix"></div>
-                    <!--=============================tracks-Details=========================-->
+                    <!--<div class="clearfix"></div>
+                    <!--=============================tracks-Details=========================
                     <div class="trackLoading"><i class="fa fa-spin fa-refresh"></i></div>
                     <section id="tracksAjaxWrapper" class="container">
                         <a class="closeTrackAjax" href="#section_5"><i class="fa fa-times"></i></a>
@@ -614,7 +608,7 @@
                     </section>
 
 
-                    <!--//tracks-Details-->
+                    <!--//tracks-Details
 
                     <div class="container">
                         <ul class="channels_list row animatedParent ">
@@ -622,8 +616,7 @@
                             <li class="col-xs-12 col-sm-4 animated fadeInLeft"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
                             <li class="col-xs-12 col-sm-4 animated fadeInLeft"><a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
                         </ul>
-                    </div>
-
+                    </div>-->
                 </section>    
 
 
@@ -653,8 +646,9 @@
                             </div>
                             <!--row--> 
                         </div>
-                        <!--container--> 
-                        <a href="#" class="btn_itunes"><span class="fa fa-music"></span>poison itunes</a> </div>
+                        <!--container
+                        <a href="#" class="btn_itunes"><span class="fa fa-music"></span>poison itunes</a>--> 
+                    </div>
                     <!--parallax_inner--> 
                 </div>
                 <!--//parallax--> 
@@ -667,19 +661,19 @@
                         <div class="row">
                             <div class="col-xs-12 col-sm-8">
                                 <div class="section_head_widget animatedParent">
-                                    <h2 class="animated fadeInLeft">poison Media</h2>
-                                    <h5 class="animated bounceInUp">photos &amp; videos</h5>
+                                    <h2 class="animated fadeInLeft">Chey Media</h2>
+                                    <h5 class="animated bounceInUp">music &amp; videos</h5>
                                 </div>
                             </div>
                             <div class="col-xs-12 col-sm-4 text-right">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-                                        2014 <span class="fa fa-caret-down"></span>
+                                        Todo <span class="fa fa-caret-down"></span>
                                     </button>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="#">2013</a></li>
-                                        <li><a href="#">2012</a></li>
-                                        <li><a href="#">2011</a></li>
+                                        <li><a href="#">mi musica</a></li>
+                                        <li><a href="#">composiciones</a></li>
+                                        <li><a href="#">videos</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -695,7 +689,7 @@
                                     </a><!--hyperlink-->
                                     <figcaption>
                                         <h6>Behind the scenes</h6>
-                                        25 photos </figcaption>
+                                    </figcaption>
                                 </figure>
                                 <!--figure--> 
                             </div>
@@ -703,12 +697,11 @@
 
                             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
                                 <figure class="animated fadeInUp"> 
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop2">
+                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
                                         <img src="img/media/media_02.jpg" alt="" />
                                     </a><!--hyperlink-->
                                     <figcaption>
-                                        <h6>poison in news</h6>
-                                        35 photos 
+                                        <h6>poison in news</h6>                             
                                     </figcaption>
                                 </figure>
                                 <!--figure--> 
@@ -717,12 +710,12 @@
 
                             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
                                 <figure class="animated fadeInUp">  
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop3">
+                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
                                         <img src="img/media/media_03.jpg" alt="" />
                                     </a><!--hyperlink-->
                                     <figcaption>
                                         <h6>paris live concert</h6>
-                                        105 photos </figcaption>
+                                    </figcaption>
                                 </figure>
                                 <!--figure--> 
                             </div>
@@ -730,12 +723,12 @@
 
                             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
                                 <figure class="animated fadeInUp">
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop4">
+                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
                                         <img src="img/media/media_04.jpg" alt="" />
                                     </a><!--hyperlink-->
                                     <figcaption>
                                         <h6>poison in news</h6>
-                                        95 photos </figcaption>
+                                    </figcaption>
                                 </figure>
                                 <!--figure--> 
                             </div>
@@ -743,12 +736,12 @@
 
                             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
                                 <figure class="animated fadeInUp"> 
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop5">
+                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
                                         <img src="img/media/media_05.jpg" alt="" />
                                     </a><!--hyperlink-->
                                     <figcaption>
                                         <h6>photos by fans</h6>
-                                        70 photos </figcaption>
+                                    </figcaption>
                                 </figure>
                                 <!--figure--> 
                             </div>
@@ -756,12 +749,12 @@
 
                             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
                                 <figure class="animated fadeInUp"> 
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop6">
+                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
                                         <img src="img/media/media_06.jpg" alt="" />
                                     </a><!--hyperlink-->
                                     <figcaption>
                                         <h6>the lorem</h6>
-                                        23 photos </figcaption>
+                                    </figcaption>
                                 </figure>
                                 <!--figure--> 
                             </div>
@@ -769,12 +762,12 @@
 
                             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
                                 <figure class="animated fadeInUp">
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop7">
+                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
                                         <img src="img/media/media_07.jpg" alt="" />
                                     </a><!--hyperlink-->
                                     <figcaption>
                                         <h6>on red carpet</h6>
-                                        49 photos </figcaption>
+                                    </figcaption>
                                 </figure>
                                 <!--figure--> 
                             </div>
@@ -782,12 +775,12 @@
 
                             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
                                 <figure class="animated fadeInUp">
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop8">
+                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
                                         <img src="img/media/media_08.jpg" alt="" />
                                     </a><!--hyperlink-->
                                     <figcaption>
                                         <h6>during live concert</h6>
-                                        32 photos </figcaption>
+                                    </figcaption>
                                 </figure>
                                 <!--figure--> 
                             </div>
@@ -795,12 +788,12 @@
 
                             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
                                 <figure class="animated fadeInUp"> 
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop9">
+                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
                                         <img src="img/media/media_09.jpg" alt="" />
                                     </a><!--hyperlink-->
                                     <figcaption>
                                         <h6>fashion show in dublin</h6>
-                                        70 photos </figcaption>
+                                    </figcaption>
                                 </figure>
                                 <!--figure--> 
                             </div>
@@ -808,12 +801,12 @@
 
                             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
                                 <figure class="animated fadeInUp"> 
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop10">
+                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
                                         <img src="img/media/media_10.jpg" alt="" />
                                     </a><!--hyperlink-->
                                     <figcaption>
                                         <h6>the Lorem</h6>
-                                        23 photos </figcaption>
+                                    </figcaption>
                                 </figure>
                                 <!--figure--> 
                             </div>
@@ -821,12 +814,12 @@
 
                             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
                                 <figure class="animated fadeInUp">
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop11">
+                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
                                         <img src="img/media/media_11.jpg" alt="" />
                                     </a><!--hyperlink-->
                                     <figcaption>
                                         <h6>party with friends</h6>
-                                        49 photos </figcaption>
+                                    </figcaption>
                                 </figure>
                                 <!--figure--> 
                             </div>
@@ -834,12 +827,12 @@
 
                             <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
                                 <figure class="animated fadeInUp">
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop12">
+                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
                                         <img src="img/media/media_12.jpg" alt="" />
                                     </a><!--hyperlink-->
                                     <figcaption>
                                         <h6>during live concert</h6>
-                                        32 photos </figcaption>
+                                    </figcaption>
                                 </figure>
                                 <!--figure--> 
                             </div>
@@ -1170,7 +1163,7 @@
                                     </ul>
 
                                     <h2>Behind the scenes</h2>
-                                    <h6>24 Photos</h6>
+                                    <h6>24 Videos</h6>
 
                                     <div class="galery_widget">
                                         <ul class="gal_list">
@@ -1200,7 +1193,7 @@
                                             <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
                                         </ul>
 
-                                        <ul class="social_share">
+                                        <!--<ul class="social_share">
                                             <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
                                             <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
                                             <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
@@ -1210,7 +1203,7 @@
                                             <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
                                             <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
                                             <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>
+                                        </ul>-->
 
                                     </div>
                                 </div><!--gallery-popup-->
@@ -1218,689 +1211,6 @@
                         </div>
                     </div>
                 </div> 
-
-                <div class="modal fade" id="gal_pop2" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                            <div class="modal-body">
-
-                                <div class="gallery_popup container">
-                                    <ul class="gallayoutOption">
-                                        <li class="active"><a href="#" class="fa fa-th gridGallery"></a></li>
-                                        <li><a href="#" class="fa fa-picture-o sliderGallery"></a></li>
-                                    </ul>
-
-                                    <h2>poison in news</h2>
-                                    <h6>24 Photos</h6>
-
-                                    <div class="galery_widget">
-                                        <ul class="gal_list">
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
-                                        </ul>
-
-                                        <ul class="social_share">
-                                            <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
-                                            <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
-                                            <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
-                                        </ul>
-
-                                        <ul class="channels_list row">
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                            <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div><!--gallery-popup-->
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="modal fade" id="gal_pop3" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                            <div class="modal-body">
-
-                                <div class="gallery_popup container">
-                                    <ul class="gallayoutOption">
-                                        <li class="active"><a href="#" class="fa fa-th gridGallery"></a></li>
-                                        <li><a href="#" class="fa fa-picture-o sliderGallery"></a></li>
-                                    </ul>
-
-                                    <h2>paris live concert</h2>
-                                    <h6>24 Photos</h6>
-
-                                    <div class="galery_widget">
-                                        <ul class="gal_list">
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
-                                        </ul>
-
-                                        <ul class="social_share">
-                                            <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
-                                            <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
-                                            <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
-                                        </ul>
-
-                                        <ul class="channels_list row">
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                            <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div><!--gallery-popup-->
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="modal fade" id="gal_pop4" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                            <div class="modal-body">
-
-                                <div class="gallery_popup container">
-                                    <ul class="gallayoutOption">
-                                        <li class="active"><a href="#" class="fa fa-th gridGallery"></a></li>
-                                        <li><a href="#" class="fa fa-picture-o sliderGallery"></a></li>
-                                    </ul>
-
-                                    <h2>poison in news</h2>
-                                    <h6>24 Photos</h6>
-
-                                    <div class="galery_widget">
-                                        <ul class="gal_list">
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
-                                        </ul>
-
-                                        <ul class="social_share">
-                                            <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
-                                            <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
-                                            <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
-                                        </ul>
-
-                                        <ul class="channels_list row">
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                            <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div><!--gallery-popup-->
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="modal fade" id="gal_pop5" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                            <div class="modal-body">
-
-                                <div class="gallery_popup container">
-                                    <ul class="gallayoutOption">
-                                        <li class="active"><a href="#" class="fa fa-th gridGallery"></a></li>
-                                        <li><a href="#" class="fa fa-picture-o sliderGallery"></a></li>
-                                    </ul>
-
-                                    <h2>photos by fans</h2>
-                                    <h6>24 Photos</h6>
-
-                                    <div class="galery_widget">
-                                        <ul class="gal_list">
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
-                                        </ul>
-
-                                        <ul class="social_share">
-                                            <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
-                                            <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
-                                            <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
-                                        </ul>
-
-                                        <ul class="channels_list row">
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                            <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div><!--gallery-popup-->
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="modal fade" id="gal_pop6" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                            <div class="modal-body">
-
-                                <div class="gallery_popup container">
-                                    <ul class="gallayoutOption">
-                                        <li class="active"><a href="#" class="fa fa-th gridGallery"></a></li>
-                                        <li><a href="#" class="fa fa-picture-o sliderGallery"></a></li>
-                                    </ul>
-
-                                    <h2>the lorem</h2>
-                                    <h6>24 Photos</h6>
-
-                                    <div class="galery_widget">
-                                        <ul class="gal_list">
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
-                                        </ul>
-
-                                        <ul class="social_share">
-                                            <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
-                                            <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
-                                            <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
-                                        </ul>
-
-                                        <ul class="channels_list row">
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                            <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div><!--gallery-popup-->
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="modal fade" id="gal_pop7" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                            <div class="modal-body">
-
-                                <div class="gallery_popup container">
-                                    <ul class="gallayoutOption">
-                                        <li class="active"><a href="#" class="fa fa-th gridGallery"></a></li>
-                                        <li><a href="#" class="fa fa-picture-o sliderGallery"></a></li>
-                                    </ul>
-
-                                    <h2>on red carpet</h2>
-                                    <h6>24 Photos</h6>
-
-                                    <div class="galery_widget">
-                                        <ul class="gal_list">
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
-                                        </ul>
-
-                                        <ul class="social_share">
-                                            <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
-                                            <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
-                                            <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
-                                        </ul>
-
-                                        <ul class="channels_list row">
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                            <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div><!--gallery-popup-->
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="modal fade" id="gal_pop8" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                            <div class="modal-body">
-
-                                <div class="gallery_popup container">
-                                    <ul class="gallayoutOption">
-                                        <li class="active"><a href="#" class="fa fa-th gridGallery"></a></li>
-                                        <li><a href="#" class="fa fa-picture-o sliderGallery"></a></li>
-                                    </ul>
-
-                                    <h2>during live concert</h2>
-                                    <h6>24 Photos</h6>
-
-                                    <div class="galery_widget">
-                                        <ul class="gal_list">
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
-                                        </ul>
-
-                                        <ul class="social_share">
-                                            <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
-                                            <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
-                                            <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
-                                        </ul>
-
-                                        <ul class="channels_list row">
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                            <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div><!--gallery-popup-->
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="modal fade" id="gal_pop9" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                            <div class="modal-body">
-
-                                <div class="gallery_popup container">
-                                    <ul class="gallayoutOption">
-                                        <li class="active"><a href="#" class="fa fa-th gridGallery"></a></li>
-                                        <li><a href="#" class="fa fa-picture-o sliderGallery"></a></li>
-                                    </ul>
-
-                                    <h2>fashion show in dublin</h2>
-                                    <h6>24 Photos</h6>
-
-                                    <div class="galery_widget">
-                                        <ul class="gal_list">
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
-                                        </ul>
-
-                                        <ul class="social_share">
-                                            <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
-                                            <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
-                                            <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
-                                        </ul>
-
-                                        <ul class="channels_list row">
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                            <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div><!--gallery-popup-->
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="modal fade" id="gal_pop10" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                            <div class="modal-body">
-
-                                <div class="gallery_popup container">
-                                    <ul class="gallayoutOption">
-                                        <li class="active"><a href="#" class="fa fa-th gridGallery"></a></li>
-                                        <li><a href="#" class="fa fa-picture-o sliderGallery"></a></li>
-                                    </ul>
-
-                                    <h2>the Lorem</h2>
-                                    <h6>24 Photos</h6>
-
-                                    <div class="galery_widget">
-                                        <ul class="gal_list">
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
-                                        </ul>
-
-                                        <ul class="social_share">
-                                            <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
-                                            <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
-                                            <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
-                                        </ul>
-
-                                        <ul class="channels_list row">
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                            <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div><!--gallery-popup-->
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="modal fade" id="gal_pop11" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                            <div class="modal-body">
-
-                                <div class="gallery_popup container">
-                                    <ul class="gallayoutOption">
-                                        <li class="active"><a href="#" class="fa fa-th gridGallery"></a></li>
-                                        <li><a href="#" class="fa fa-picture-o sliderGallery"></a></li>
-                                    </ul>
-
-                                    <h2>party with friends</h2>
-                                    <h6>24 Photos</h6>
-
-                                    <div class="galery_widget">
-                                        <ul class="gal_list">
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
-                                        </ul>
-
-                                        <ul class="social_share">
-                                            <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
-                                            <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
-                                            <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
-                                        </ul>
-
-                                        <ul class="channels_list row">
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                            <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div><!--gallery-popup-->
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="modal fade" id="gal_pop12" tabindex="-1" role="dialog" aria-hidden="true">
-                    <div class="modal-dialog">
-                        <div class="modal-content">
-                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                            <div class="modal-body">
-
-                                <div class="gallery_popup container">
-                                    <ul class="gallayoutOption">
-                                        <li class="active"><a href="#" class="fa fa-th gridGallery"></a></li>
-                                        <li><a href="#" class="fa fa-picture-o sliderGallery"></a></li>
-                                    </ul>
-
-                                    <h2>during live concert</h2>
-                                    <h6>24 Photos</h6>
-
-                                    <div class="galery_widget">
-                                        <ul class="gal_list">
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
-                                        </ul>
-
-                                        <ul class="social_share">
-                                            <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
-                                            <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
-                                            <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
-                                        </ul>
-
-                                        <ul class="channels_list row">
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                            <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>
-
-                                    </div>
-                                </div><!--gallery-popup-->
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-
 
                 <!--======================================
               Footer

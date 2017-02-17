@@ -168,7 +168,7 @@ a.btn_fb:hover, .btn_fb:hover{
     background:#194074;
 }
 .btn-group .btn-default, .open .dropdown-toggle.btn-default{
-    background:#cc1313;
+    background:#13a7cc;
     border:none;
     color:#fff;
     font-size:30px;
@@ -179,7 +179,7 @@ a.btn_fb:hover, .btn_fb:hover{
 }
 
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active{
-    background:#cc1313;
+    background:#13a7cc;
     color:#fff;
 }
 .btn-group .dropdown-menu{
@@ -188,7 +188,7 @@ a.btn_fb:hover, .btn_fb:hover{
     border-radius:0;
     margin:0;
     border:none;
-    background:#cc1313;
+    background:#13a7cc;
 }
 .btn-group .dropdown-menu > li > a{
     color:#fff;
@@ -447,16 +447,9 @@ a.ScrollTo{
 .player_wrapper{
     position:relative;
 }
-a.playlist_expander{
-    width:63px;
-    margin-right:15px;
+div.playlist_expander{
     height:67px;
     float:right;
-    display:inline-block;
-    line-height:67px;
-    text-align:center;
-    background:#343434;
-    color:#fff;
 }
 .boxed_in a.playlist_expander{
     margin-right:0;
