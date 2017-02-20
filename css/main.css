@@ -47,7 +47,7 @@ body {
 /*==================================
 1-Preloader
 ===================================*/
-#jpreOverlay {
+/*#jpreOverlay {
     background-color: #161616;
     text-align: center;
 }
@@ -138,10 +138,6 @@ h6 { font-size: 22px; }
 img {
     max-width: 100%;
     height: auto;
-}
-h2:after {
-    content: '.';
-    color: #13a7cc;
 }
 .bg1 {
     background: url(../img/BG/banner1.jpg) center center no-repeat;
@@ -264,16 +260,16 @@ a.ScrollTo{
     left: 50%;
     margin-left: -50px;
     top: 100%;
-    margin-top: 250px;
+    margin-top: 300px;
     width: 70px;
     height: 70px;
     border-radius: 50%;
-    border: 2px solid #13a7cc;
     font-size: 65px;
     color: #fff;
     text-align: center;
     line-height: 90px;
     position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 .banner_slider{
     width:100%;
@@ -580,7 +576,8 @@ div.playlist_expander{
     font-weight:600;
 }
 .banner h4 { color: #13a7cc; }
-.banner h1 { color: #fff; }
+.banner h1 { color: #fff; text-align: center }
+.styleRow { background-color: rgba(0, 0, 0, 0.6);}
 .fraction_wrapper{
     background: url(../img/BG/bodyBG.jpg) center center #161616;
     padding-top:0;
@@ -669,8 +666,8 @@ div.playlist_expander{
     padding-bottom: 150px;
 }
 .parallax_one { background-image: url(../img/BG/parallax1.jpg);}
-.parallax_two { background-image: url(../img/BG/parallax2.jpg);}
-.parallax_three { background-image: url(../img/BG/parallax3.jpg);}
+.parallax_two { background-image: url(../img/BG/header04.jpg);}
+.parallax_three { background-image: url(../img/BG/header06.jpg);}
 .parallax_four { background-image: url(../img/BG/parallax4.jpg);}
 .parallax_five { background-image: url(../img/BG/parallax5.jpg);}
 
@@ -941,7 +938,7 @@ div.playlist_expander{
     float: left;
 }
 .track_box { margin-bottom: 30px; }
-.news_box h6, .track_box h6 { color: #cc1313; }
+.news_box h5, .track_box h5 { color: #fff;  }
 .news_meta {
     font-family: lato;
     font-style: italic;
@@ -962,19 +959,20 @@ div.playlist_expander{
 .news_box .hover, .track_box .hover {
     position: absolute;
     left: 0;
-    bottom: -20%;
+    bottom: -30%;
     width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 .news_box .hover a, .track_box .hover a {
     color: #fff;
-    background: #cc1313;
+    background: #13a7cc;
     padding: 10px 0;
     display: block;
     width: 100%;
     text-decoration: none;
     font-size: 20px;
 }
-.news_box:hover .hover, .track_box:hover .hover { bottom: 0; }
+.news_box:hover .hover, .track_box:hover .hover { bottom: 50%; }
 .news_box:hover .news_info_wrapper, .track_box:hover .track_info_wrapper {
     height:0;
     top:-10%;
@@ -1285,7 +1283,7 @@ div.playlist_expander{
     padding-bottom: 70px;
 }
 .testimonial blockquote b{
-    color: #cc1313;
+    color: #13a7cc;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -1398,7 +1396,7 @@ a.btn_itunes:hover{
 }
 
 .media_widget figure:hover h6{
-    color:#cc1313;
+    color:#13a7cc;
 }
 
 .galery_widget{
@@ -1554,7 +1552,7 @@ a.btn_itunes:hover{
     line-height:20px;
 }
 .gallery_popup h6{
-    color:#cc1313;
+    color:#13a7cc;
     margin-bottom:30px;
 }
 
@@ -1661,7 +1659,7 @@ a.btn_itunes:hover{
     height:500px;
     overflow:hidden;
 }
-#track_detail.loading:after{
+/*#track_detail.loading:after{
     content:'';
     position:absolute;
     left:0;
@@ -1671,7 +1669,7 @@ a.btn_itunes:hover{
     z-index:99;
     display:block;
     background: url(../img/basic/preloader.gif) #fff center center no-repeat;
-}
+}*/
 #track_detail.track_loaded{
     height:auto;
 }
@@ -1703,7 +1701,7 @@ ul.music_widget > li{
     right:10px;
 }
 .music_widget h2{color:#222222; margin-bottom:10px;}
-.music_widget h6{color:#cc1313;}
+.music_widget h6{color:#13a7cc;}
 .music_row_header{
     color:#8e8e8e;
     margin-top:20px;
@@ -1822,7 +1820,7 @@ ul.music_widget > li{
     color:#cc1313;
 }
 .about_section .section_head_widget { text-align: center; }
-.about_section .section_head_widget h4 { color: #cc1313; }
+.about_section .section_head_widget h4 { color: #13a7cc; }
 
 /*====================================
 20-Footer
@@ -1995,26 +1993,26 @@ Media Queries
     .preload_logo{
         left:0;
     }
-    #jpreLoader{
+    /*#jpreLoader{
         max-width:220px;
         margin-left:60px;
-    }
+    }*/
 }
 
 @media (max-width: 1024px) {
-    .preload_logo{
+    /*.preload_logo{
         position:relative;
         left:auto;
         right:auto;
         top:auto;
     }
-    #jpreLoader{
+   #jpreLoader{
         margin-left:0px;
         font-size:25px;
     }
     #jprePercentage {
         right: auto;
-    }
+    }*/
 
     .vegas-controls li a{
         display:inline-block;

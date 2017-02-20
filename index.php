@@ -45,7 +45,6 @@
         <link rel="stylesheet" type="text/css" href="assets/css/colors/color7.css">
         -->
 
-
         <script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>
 
@@ -53,11 +52,11 @@
         <!--=====================================
         Preloader
         ========================================-->
-        <div id="jSplash">
+        <!--<div id="jSplash">
             <figure class="preload_logo">
                 <img src="img/basic/logo2.png" alt=""/>
             </figure>
-        </div>
+        </div>-->
         <div class="wide_layout box-wide">
             <!--=================================
             Vegas Slider Images 
@@ -73,11 +72,11 @@
             ====================-->
             <section id="section_1" class="banner hero_section">
                 <div class="container">
-                    <div class="row">
+                    <div class="row styleRow">
                         <div class="col-xs-12">
                             <div class="hero_content animatedParent animateLoop">
-                                <h1 class="animated bounceInDown">CREANDO Y PRODUCIENDO MÚSICA<span class="primary_color">.</span></h1>
-                                <h4 class="animated bounceInLeft ">Chey producciones</h4>
+                                <h1 class="animated bounceInDown">Chey producciones</h1>
+                                <!--<h4 class="animated bounceInLeft ">Chey producciones<span class="primary_color">.</span></h4>-->
                                 <a class="ScrollTo animated bounceInUp" href="#section_5"><i class="fa fa-angle-down"></i></a> 
                             </div>
                         </div>
@@ -262,7 +261,7 @@
                     <div class="container">
                         <div class="navbar-header">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-                            <a class="navbar-brand" href="#"><img src="img/basic/logo.png" alt="logo"/></a> </div>
+                            <a class="navbar-brand" href="#"><img src="img/basic/logochey01.png" style="height: 50px" alt="logo"/></a> </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
                                 <li class="active"><a href="#section_5">Servicios</a></li>
@@ -475,7 +474,7 @@
                             <div class="col-xs-12 col-sm-8">
                                 <div class="section_head_widget animatedParent ">
                                     <h2 class="animated fadeInLeft">Chey services</h2>
-                                    <h5 class="animated bounceInRight">All services</h5>
+                                    <h5 class="animated bounceInRight">La musica sin limites</h5>
                                 </div>
                                 <!--section_head_widget--> 
                             </div>
@@ -496,15 +495,14 @@
                         <div class="row tracks_widget">
                             <div class="col-sm-4 col-xs-12 animatedParent">
                                 <div class="track_box animated fadeInUp">
-                                    <figure><img src="img/news/n1.jpg" alt="" /></figure>
+                                    <figure><img src="img/news/n1.jpg" alt="imagen" /></figure>
                                     <div class="track_info_wrapper">
                                         <div class="track_info">
-                                            <h4>Loremipsum Per hour</h4>
+                                            <h4>Tu musica ideal</h4>
                                         </div>
                                         <!--news_info--> 
                                     </div>
-                                    <!--//news_info_wrapper
-                                    <div class="hover"> <a class="triggerTrack" href="albums.html" data-number="1"> Read Full Article </a> </div>
+                                    <div class="hover"><h5>Read Full Article Read Full Article Read Full Article Read Full Article Read Full Article Read Full Article</h5></div>
                                     <!--//hover--> 
                                 </div>
                                 <!--//news_box--> 
@@ -516,7 +514,7 @@
                                     <figure><img src="img/news/n2.jpg" alt="" /></figure>
                                     <div class="track_info_wrapper">
                                         <div class="track_info">
-                                            <h4>Loremipsum</h4>
+                                            <h4>Le damos tono a tus ideas</h4>
                                         </div>
                                         <!--news_info--> 
                                     </div>
@@ -533,7 +531,7 @@
                                     <figure><img src="img/news/n3.jpg" alt="" /></figure>
                                     <div class="track_info_wrapper">
                                         <div class="track_info">
-                                            <h4>Against the lorem</h4>
+                                            <h4>jingles y demas</h4>
                                         </div>
                                         <!--news_info--> 
                                     </div>
@@ -545,56 +543,6 @@
                             </div>
                             <!--column-->
 
-                            <div class="col-sm-4 col-xs-12 animatedParent">
-                                <div class="track_box animated fadeInUp">
-                                    <figure><img src="img/news/n4.jpg" alt="" /></figure>
-                                    <div class="track_info_wrapper">
-                                        <div class="track_info">
-                                            <h4>Everything is lorem</h4>
-                                        </div>
-                                        <!--news_info--> 
-                                    </div>
-                                    <!--//news_info_wrapper
-                                    <div class="hover"> <a class="triggerTrack" href="albums.html" data-number="4"> Read Full Article </a> </div>
-                                    <!--//hover--> 
-                                </div>
-                                <!--//news_box--> 
-                            </div>
-                            <!--column-->
-
-                            <div class="col-sm-4 col-xs-12 animatedParent">
-                                <div class="track_box animated fadeInUp">
-                                    <figure><img src="img/news/n5.jpg" alt="" /></figure>
-                                    <div class="track_info_wrapper">
-                                        <div class="track_info">
-                                            <h4>Loremipsum myself</h4>
-                                        </div>
-                                        <!--news_info--> 
-                                    </div>
-                                    <!--//news_info_wrapper
-                                    <div class="hover"> <a class="triggerTrack" href="albums.html" data-number="5"> Read Full Article </a> </div>
-                                    <!--//hover--> 
-                                </div>
-                                <!--//news_box--> 
-                            </div>
-                            <!--column-->
-
-                            <div class="col-sm-4 col-xs-12 animatedParent">
-                                <div class="track_box animated fadeInUp">
-                                    <figure><img src="img/news/n6.jpg" alt="" /></figure>
-                                    <div class="track_info_wrapper">
-                                        <div class="track_info">
-                                            <h4>The lorem Years</h4>
-                                        </div>
-                                        <!--news_info--> 
-                                    </div>
-                                    <!--//news_info_wrapper
-                                    <div class="hover"> <a class="triggerTrack" href="albums.html" data-number="6"> Read Full Article </a> </div>
-                                    <!--//hover--> 
-                                </div>
-                                <!--//news_box--> 
-                            </div>
-                            <!--column--> 
                         </div>
 
                     </div>
@@ -629,18 +577,9 @@
                             <div class="row">
                                 <div class="col-xs-12">
                                     <div class="testimonial_quotes owl-carousel owl-theme ">
-                                        <blockquote> <b class="fa fa-quote-left"></b> This album is amazing!!! Im in love
-                                            with this album from start to finish.
-                                            Welcome back poison! <b class="fa fa-quote-right"></b> <a class="author_name" href="#">by Budlish</a> </blockquote>
-                                        <blockquote> <b class="fa fa-quote-left"></b> This album is amazing!!! Im in love
-                                            with this album from start to finish.
-                                            Welcome back poison! <b class="fa fa-quote-right"></b> <a class="author_name" href="#">by Budlish</a> </blockquote>
-                                        <blockquote> <b class="fa fa-quote-left"></b> This album is amazing!!! Im in love
-                                            with this album from start to finish.
-                                            Welcome back poison! <b class="fa fa-quote-right"></b> <a class="author_name" href="#">by Budlish</a> </blockquote>
+                                        <blockquote> <b class="fa fa-quote-left"></b> Para crecer también hay que aprender, de otra manera solo es envejecer. <b class="fa fa-quote-right"></b></blockquote>                                   
                                     </div>
                                     <!--testimonial_quotes carousel end here--> 
-
                                 </div>
                                 <!--column--> 
                             </div>
@@ -665,7 +604,7 @@
                                     <h5 class="animated bounceInUp">music &amp; videos</h5>
                                 </div>
                             </div>
-                            <div class="col-xs-12 col-sm-4 text-right">
+                            <!--<div class="col-xs-12 col-sm-4 text-right">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
                                         Todo <span class="fa fa-caret-down"></span>
@@ -676,7 +615,7 @@
                                         <li><a href="#">videos</a></li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div>-->
                             <!--section_head_widget--> 
                         </div>
                         <!--row-->
@@ -785,59 +724,6 @@
                                 <!--figure--> 
                             </div>
                             <!--Column / media item-->
-
-                            <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
-                                <figure class="animated fadeInUp"> 
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
-                                        <img src="img/media/media_09.jpg" alt="" />
-                                    </a><!--hyperlink-->
-                                    <figcaption>
-                                        <h6>fashion show in dublin</h6>
-                                    </figcaption>
-                                </figure>
-                                <!--figure--> 
-                            </div>
-                            <!--Column / media item-->
-
-                            <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
-                                <figure class="animated fadeInUp"> 
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
-                                        <img src="img/media/media_10.jpg" alt="" />
-                                    </a><!--hyperlink-->
-                                    <figcaption>
-                                        <h6>the Lorem</h6>
-                                    </figcaption>
-                                </figure>
-                                <!--figure--> 
-                            </div>
-                            <!--Column / media item-->
-
-                            <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
-                                <figure class="animated fadeInUp">
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
-                                        <img src="img/media/media_11.jpg" alt="" />
-                                    </a><!--hyperlink-->
-                                    <figcaption>
-                                        <h6>party with friends</h6>
-                                    </figcaption>
-                                </figure>
-                                <!--figure--> 
-                            </div>
-                            <!--Column / media item-->
-
-                            <div class="col-xs-12 col-sm-4 col-md-3 animatedParent">
-                                <figure class="animated fadeInUp">
-                                    <a href="#" data-toggle="modal" data-target="#gal_pop">
-                                        <img src="img/media/media_12.jpg" alt="" />
-                                    </a><!--hyperlink-->
-                                    <figcaption>
-                                        <h6>during live concert</h6>
-                                    </figcaption>
-                                </figure>
-                                <!--figure--> 
-                            </div>
-                            <!--Column / media item--> 
-
                         </div>
                     </div>
                     <!--container--> 
@@ -852,10 +738,10 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-xs-12 animatedParent ">
-                                    <h1 class="animated fadeInDown">performing live!</h1>
-                                    <h3 class="animated bounceInRight">stars tour de paris</h3>
+                                    <h1 class="animated fadeInDown">Trabajamos para la musica!</h1>
+                                    <!--<h3 class="animated bounceInRight">stars tour de paris</h3>
                                     <h5  class="animated bounceInUp">november 5th 2013</h5>
-                                    <a href="#" class="btn">book tickets now</a> </div>
+                                    <a href="#" class="btn">book tickets now</a>--> </div>
                                 <!--column--> 
                             </div>
                             <!--row--> 
@@ -869,7 +755,7 @@
                 <!--======================================
               Tours Section
               ==========================================-->
-                <section id="section_9" class="tours_section">
+                <!--<section id="section_9" class="tours_section">
                     <div class="container">
                         <div class="row">
                             <div class="col-xs-12">
@@ -878,14 +764,14 @@
                                     <h5>all tours this year</h5>
                                 </div>
                             </div>
-                            <!--section_head_widget--> 
+                            <!--section_head_widget
                         </div>
-                        <!--row-->
+                        <!--row
 
                         <div class="tours_widget">
                             <div class="tour_row_header">
                                 <div class="column_one"> Date </div>
-                                <div class="column_two"> &nbsp;<!--no header for picture column--> 
+                                <div class="column_two"> &nbsp;<!--no header for picture column
                                 </div>
                                 <div class="column_three"> Location </div>
                                 <div class="column_four"> Venue </div>
@@ -904,7 +790,7 @@
                                     <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
                                 </div>
                             </div>
-                            <!--tour row-->
+                            <!--tour row
 
                             <div class="tour_row animatedParent  ">
                                 <div class="animated fadeInDownShort">
@@ -918,7 +804,7 @@
                                     <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
                                 </div>
                             </div>
-                            <!--tour row-->
+                            <!--tour row
 
                             <div class="tour_row animatedParent  ">
                                 <div class="animated fadeInDownShort">
@@ -932,7 +818,7 @@
                                     <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
                                 </div>
                             </div>
-                            <!--tour row-->
+                            <!--tour row
 
                             <div class="tour_row animatedParent  ">
                                 <div class="animated fadeInDownShort">
@@ -946,7 +832,7 @@
                                     <div class="column_six"> <a class="btn btn_buy_ticket sold_out" href="#">Sold Out</a> </div>
                                 </div>
                             </div>
-                            <!--tour row-->
+                            <!--tour row
 
                             <div class="tour_row animatedParent  ">
                                 <div class="animated fadeInDownShort">
@@ -960,7 +846,7 @@
                                     <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
                                 </div>
                             </div>
-                            <!--tour row-->
+                            <!--tour row
 
                             <div class="tour_row animatedParent  ">
                                 <div class="animated fadeInDownShort">
@@ -974,7 +860,7 @@
                                     <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
                                 </div>
                             </div>
-                            <!--tour row-->
+                            <!--tour row
 
                             <div class="tour_row animatedParent  ">
                                 <div class="animated fadeInDownShort">
@@ -988,7 +874,7 @@
                                     <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
                                 </div>
                             </div>
-                            <!--tour row-->
+                            <!--tour row
 
                             <div class="tour_row animatedParent  ">
                                 <div class="animated fadeInDownShort">
@@ -1002,7 +888,7 @@
                                     <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
                                 </div>
                             </div>
-                            <!--tour row-->
+                            <!--tour row
 
                             <div class="tour_row animatedParent  ">
                                 <div class="animated fadeInDownShort">
@@ -1016,7 +902,7 @@
                                     <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
                                 </div>
                             </div>
-                            <!--tour row-->
+                            <!--tour row
 
                             <div class="tour_row animatedParent  ">
                                 <div class="animated fadeInDownShort">
@@ -1030,7 +916,7 @@
                                     <div class="column_six"> <a class="btn btn_buy_ticket sold_out" href="#">Sold Out</a> </div>
                                 </div>
                             </div>
-                            <!--tour row-->
+                            <!--tour row
 
                             <div class="tour_row animatedParent  ">
                                 <div class="animated fadeInDownShort">
@@ -1044,16 +930,16 @@
                                     <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
                                 </div>
                             </div>
-                            <!--tour row--> 
+                            <!--tour row
                         </div>
                     </div>
-                    <!--container--> 
+                    <!--container
                 </section>
                 <!--//tours--> 
 
                 <!--======================================
               Parallax/Tweets Section
-              ==========================================-->
+              ==========================================
                 <div id="section_10" class="parallax parallax_four latest_tweets" data-stellar-background-ratio="0.5">
                     <div class="parallax_inner">
                         <div class="container">
@@ -1061,19 +947,19 @@
                                 <div class="col-xs-12"> <span class="fa fa-twitter tweet_icon"></span>
                                     <div class="tweet"></div>
                                 </div>
-                                <!--column--> 
+                                <!--column
                             </div>
-                            <!--row--> 
+                            <!--row 
                         </div>
-                        <!--container--> 
+                        <!--container
                     </div>
-                    <!--parallax_inner--> 
+                    <!--parallax_inner
                 </div>
                 <!--//parallax--> 
                 <!--======================================
               Team/Band Members
               ==========================================-->
-                <section id="section_11" class="team_section">
+                <!--<section id="section_11" class="team_section">
                     <div class="container overlayNews">
                         <div class="row">
                             <div class="col-xs-12">
@@ -1082,17 +968,17 @@
                                     <h5>band biography</h5>
                                 </div>
                             </div>
-                            <!--column--> 
+                            <!--column
                         </div>
-                        <!--row--> 
+                        <!--row
                     </div>
-                    <!--contaier-->
+                    <!--contaier
                     <div class="team_widget">
                         <div class="container controls_wrapper animatedParent ">
                             <div class="carousel_controls"> <span id="member-prev" class="fa fa-angle-left animated fadeInLeft"></span> <span id="member-next" class="fa fa-angle-right animated bounceInRight"></span> </div>
-                            <!--controls--> 
+                            <!--controls
                         </div>
-                        <!--//controls_wrapper//carousel_overlay-->
+                        <!--//controls_wrapper//carousel_overlay
 
                         <div class="members_carousel animatedParent" data-sequence="400">
                             <figure class="animated fadeInLeft" data-id="1"> <img src="img/team/member-1.jpg" alt=""/>
@@ -1111,7 +997,7 @@
                                 <figcaption><a href="#">david Tomlinson</a></figcaption>
                             </figure>
                         </div>
-                        <!--members_carousel--> 
+                        <!--members_carousel
                     </div>
                 </section>
 
@@ -1276,7 +1162,7 @@
 
                             <div class="row">
                                 <div class="col-xs-12">
-                                    <div class="copyrights">&copy; 2014 <a href="#">poison music</a>.</div>
+                                    <div class="copyrights">&copy; 2014 <a href="#">Chey producciones</a>.</div>
                                 </div>
                             </div>
                         </div><!--container--> 
@@ -1312,6 +1198,7 @@
 
             $('body').jpreLoader({
                 splashID: "#jSplash",
+                showPercentage: false,
                 loaderVPos: '50%',
                 autoClose: true
             });
