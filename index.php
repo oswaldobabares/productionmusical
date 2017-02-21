@@ -116,55 +116,55 @@
                                         </li>
                                         music row-->
 
-                                        <!--<li class="music_row">
-                                            <div class="column_one track_index"></div>
-                                            <div class="column_two track_thumb"></div>
-                                            <div class="column_three track_title"></div>
-                                            <div class="column_four track_genre"></div>
-                                            <div class="column_five track_composer"></div>
-                                            <div class="column_six track_length"></div>
-                                            <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
-                                        </li>
-                                        <!--music row
+                        <!--<li class="music_row">
+                            <div class="column_one track_index"></div>
+                            <div class="column_two track_thumb"></div>
+                            <div class="column_three track_title"></div>
+                            <div class="column_four track_genre"></div>
+                            <div class="column_five track_composer"></div>
+                            <div class="column_six track_length"></div>
+                            <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
+                        </li>
+                        <!--music row
 
-                                        <li class="music_row">
-                                            <div class="column_one track_index"></div>
-                                            <div class="column_two track_thumb"></div>
-                                            <div class="column_three track_title"></div>
-                                            <div class="column_four track_genre"></div>
-                                            <div class="column_five track_composer"></div>
-                                            <div class="column_six track_length"></div>
-                                            <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
-                                        </li>
-                                        <!--music row
+                        <li class="music_row">
+                            <div class="column_one track_index"></div>
+                            <div class="column_two track_thumb"></div>
+                            <div class="column_three track_title"></div>
+                            <div class="column_four track_genre"></div>
+                            <div class="column_five track_composer"></div>
+                            <div class="column_six track_length"></div>
+                            <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
+                        </li>
+                        <!--music row
 
-                                        <li class="music_row">
-                                            <div class="column_one track_index"></div>
-                                            <div class="column_two track_thumb"></div>
-                                            <div class="column_three track_title"></div>
-                                            <div class="column_four track_genre"></div>
-                                            <div class="column_five track_composer"></div>
-                                            <div class="column_six track_length"></div>
-                                            <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
-                                        </li>
-                                        <!--music row
+                        <li class="music_row">
+                            <div class="column_one track_index"></div>
+                            <div class="column_two track_thumb"></div>
+                            <div class="column_three track_title"></div>
+                            <div class="column_four track_genre"></div>
+                            <div class="column_five track_composer"></div>
+                            <div class="column_six track_length"></div>
+                            <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
+                        </li>
+                        <!--music row
 
-                                        <li class="music_row">
-                                            <div class="column_one track_index"></div>
-                                            <div class="column_two track_thumb"></div>
-                                            <div class="column_three track_title"></div>
-                                            <div class="column_four track_genre"></div>
-                                            <div class="column_five track_composer"></div>
-                                            <div class="column_six track_length"></div>
-                                            <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
-                                        </li>
-                                        <!--music row
-                                    </ul>
-                                    <!--music_widget
-                                </div>
-                                <!--container
-                            </div>
-                        </div>
+                        <li class="music_row">
+                            <div class="column_one track_index"></div>
+                            <div class="column_two track_thumb"></div>
+                            <div class="column_three track_title"></div>
+                            <div class="column_four track_genre"></div>
+                            <div class="column_five track_composer"></div>
+                            <div class="column_six track_length"></div>
+                            <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
+                        </li>
+                        <!--music row
+                    </ul>
+                        <!--music_widget
+                    </div>
+                        <!--container
+                    </div>
+                </div>
 
                         <!--//=============================================================
                         Edit or Modify Playist content in the following Hypertext
@@ -181,7 +181,7 @@
                                     data-itunes="http://xvelopers.com" 
                                     data-video="http://xvelopers.com" 
                                     data-mp3="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"></li>
-                                <!--<li 
+                                <li 
                                     data-thumb="img/media/media_02.jpg"
                                     data-title="Anarchy in the UK - Sex Pistols"
                                     data-genre="punk"  
@@ -216,7 +216,25 @@
                                     data-length="3:30" 
                                     data-itunes="http://xvelopers.com" 
                                     data-video="http://xvelopers.com" 
-                                    data-mp3="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"></li>-->
+                                    data-mp3="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"></li>
+                                <li 
+                                    data-thumb="img/media/media_05.jpg"
+                                    data-title="Holiday in Cambodia - Dead Kennedys"
+                                    data-genre="punk"  
+                                    data-artist="Poision Studios" 
+                                    data-length="3:30" 
+                                    data-itunes="http://xvelopers.com" 
+                                    data-video="http://xvelopers.com" 
+                                    data-mp3="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"></li>
+                                <li 
+                                    data-thumb="img/media/media_05.jpg"
+                                    data-title="Holiday in Cambodia - Dead Kennedys"
+                                    data-genre="punk"  
+                                    data-artist="Poision Studios" 
+                                    data-length="3:30" 
+                                    data-itunes="http://xvelopers.com" 
+                                    data-video="http://xvelopers.com" 
+                                    data-mp3="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"></li>
                             </ul>
                             <!--Playlist ends--> 
                         </div>
@@ -261,14 +279,14 @@
                     <div class="container">
                         <div class="navbar-header">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-                            <a class="navbar-brand" href="#"><img src="img/basic/logochey01.png" style="height: 50px" alt="logo"/></a> </div>
+                            <a class="navbar-brand" href="#"><img src="img/basic/logochey.png" style="height: 50px" alt="logo"/></a> </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
                                 <li class="active"><a href="#section_5">Servicios</a></li>
-                                <li><a href="#section_7">Repertorio</a></li>
-                                <li><a href="#section_9">Conoceme</a></li>
-                                <li><a href="#section_11">Band</a></li>
-                                <li><a href="#section_13">Contactame</a></li>
+                                <li><a href="#section_6">Musica</a></li>
+                                <li><a href="#section_7">Videos</a></li>
+                                <li><a href="#section_12">Acerca de</a></li>
+                                <li><a href="#section_13">Contactanos</a></li>
                             </ul>
                         </div>
                         <!--/.nav-collapse --> 
@@ -290,121 +308,121 @@
                                     <h5 class="animated fadeInLeft">latest articles</h5>
                                 </div>
                             </div>
-                            <!--column
-                        </div>
-                        <!--row
-                    </div>
-                    <!--contaier
-                    <div class="news_widget">
-                        <!--<div class="container controls_wrapper animatedParent ">
-                            <div class="carousel_controls"> <span id="news-prev" class="fa fa-angle-left animated fadeInLeft"></span> <span id="news-next" class="fa fa-angle-right animated bounceInRight "></span> </div>
-                            <!--controls
-                        </div>-->
-                        <!--//controls_wrapper//carousel_overlay
+                <!--column
+            </div>
+                <!--row
+            </div>
+                <!--contaier
+                <div class="news_widget">
+                <!--<div class="container controls_wrapper animatedParent ">
+                    <div class="carousel_controls"> <span id="news-prev" class="fa fa-angle-left animated fadeInLeft"></span> <span id="news-next" class="fa fa-angle-right animated bounceInRight "></span> </div>
+                <!--controls
+            </div>-->
+                <!--//controls_wrapper//carousel_overlay
 
-                        <div class="news_carousel animatedParent ">
-                            <div class="news_box fadeInUp animated">
-                                <figure><img src="img/news/n1.jpg" alt="" /></figure>
-                                <div class="news_info_wrapper">
-                                    <div class="news_info">
-                                        <h5>poison fragnances coming soon</h5>
-                                        <!--<ul class="news_meta">
-                                            <li>by POISON</li>
-                                            <li>Sep 20, 2013</li>
-                                        </ul>-->
-                                        <!--//news_meta-->
-                                        <!--<h6>3 comments</h6>
-                                    </div>
-                                    <!--news_info
-                                </div>
-                                <!--//news_info_wrapper-->
-                                <!--<div class="hover"> 
-                                    <a class="triggerNews" href="news.html" data-number="1">
-                                        Read Full Article
-                                    </a> 
-                                </div>--> 
-                                <!--//hover
-                            </div>
-                            <!--//news_box bounceInUp animated
+                <div class="news_carousel animatedParent ">
+                    <div class="news_box fadeInUp animated">
+                        <figure><img src="img/news/n1.jpg" alt="" /></figure>
+                        <div class="news_info_wrapper">
+                            <div class="news_info">
+                                <h5>poison fragnances coming soon</h5>
+                <!--<ul class="news_meta">
+                    <li>by POISON</li>
+                    <li>Sep 20, 2013</li>
+                </ul>-->
+                <!--//news_meta-->
+                <!--<h6>3 comments</h6>
+            </div>
+                <!--news_info
+            </div>
+                <!--//news_info_wrapper-->
+                <!--<div class="hover"> 
+                    <a class="triggerNews" href="news.html" data-number="1">
+                        Read Full Article
+                    </a> 
+                </div>--> 
+                <!--//hover
+            </div>
+                <!--//news_box bounceInUp animated
 
-                            <div class="news_box fadeInUp animated">
-                                <figure><img src="img/news/n1.jpg" alt="" /></figure>
-                                <div class="news_info_wrapper">
-                                    <div class="news_info">
-                                        <h5>poison fragnances coming soon</h5>
-                                        <!--<ul class="news_meta">
-                                            <li>by POISON</li>
-                                            <li>Sep 20, 2013</li>
-                                        </ul>-->
-                                        <!--//news_meta-->
-                                        <!--<h6>3 comments</h6>
-                                    </div>
-                                    <!--news_info
-                                </div>
-                                <!--//news_info_wrapper-->
-                                <!--<div class="hover"> 
-                                    <a class="triggerNews" href="news.html" data-number="1">
-                                        Read Full Article
-                                    </a> 
-                                </div>--> 
-                                <!--//hover
-                            </div>
-                            <!--//news_box bounceInUp animated
+                <div class="news_box fadeInUp animated">
+                    <figure><img src="img/news/n1.jpg" alt="" /></figure>
+                    <div class="news_info_wrapper">
+                        <div class="news_info">
+                            <h5>poison fragnances coming soon</h5>
+                <!--<ul class="news_meta">
+                    <li>by POISON</li>
+                    <li>Sep 20, 2013</li>
+                </ul>-->
+                <!--//news_meta-->
+                <!--<h6>3 comments</h6>
+            </div>
+                <!--news_info
+            </div>
+                <!--//news_info_wrapper-->
+                <!--<div class="hover"> 
+                    <a class="triggerNews" href="news.html" data-number="1">
+                        Read Full Article
+                    </a> 
+                </div>--> 
+                <!--//hover
+            </div>
+                <!--//news_box bounceInUp animated
 
-                            <div class="news_box fadeInUp animated">
-                                <figure><img src="img/news/n1.jpg" alt="" /></figure>
-                                <div class="news_info_wrapper">
-                                    <div class="news_info">
-                                        <h5>poison fragnances coming soon</h5>
-                                        <!--<ul class="news_meta">
-                                            <li>by POISON</li>
-                                            <li>Sep 20, 2013</li>
-                                        </ul>-->
-                                        <!--//news_meta-->
-                                        <!--<h6>3 comments</h6>
-                                    </div>
-                                    <!--news_info
-                                </div>
-                                <!--//news_info_wrapper-->
-                                <!--<div class="hover"> 
-                                    <a class="triggerNews" href="news.html" data-number="1">
-                                        Read Full Article
-                                    </a> 
-                                </div>--> 
-                                <!--//hover
-                            </div>
-                            <!--//news_box bounceInUp animated
+                <div class="news_box fadeInUp animated">
+                    <figure><img src="img/news/n1.jpg" alt="" /></figure>
+                    <div class="news_info_wrapper">
+                        <div class="news_info">
+                            <h5>poison fragnances coming soon</h5>
+                <!--<ul class="news_meta">
+                    <li>by POISON</li>
+                    <li>Sep 20, 2013</li>
+                </ul>-->
+                <!--//news_meta-->
+                <!--<h6>3 comments</h6>
+            </div>
+                <!--news_info
+            </div>
+                <!--//news_info_wrapper-->
+                <!--<div class="hover"> 
+                    <a class="triggerNews" href="news.html" data-number="1">
+                        Read Full Article
+                    </a> 
+                </div>--> 
+                <!--//hover
+            </div>
+                <!--//news_box bounceInUp animated
 
-                            <div class="news_box fadeInUp animated">
-                                <figure><img src="img/news/n1.jpg" alt="" /></figure>
-                                <div class="news_info_wrapper">
-                                    <div class="news_info">
-                                        <h5>poison fragnances coming soon</h5>
-                                        <!--<ul class="news_meta">
-                                            <li>by POISON</li>
-                                            <li>Sep 20, 2013</li>
-                                        </ul>-->
-                                        <!--//news_meta-->
-                                        <!--<h6>3 comments</h6>
-                                    </div>
-                                    <!--news_info
-                                </div>
-                                <!--//news_info_wrapper-->
-                                <!--<div class="hover"> 
-                                    <a class="triggerNews" href="news.html" data-number="1">
-                                        Read Full Article
-                                    </a> 
-                                </div>--> 
-                                <!--//hover
-                            </div>
-                            <!--//news_box bounceInUp animated
+                <div class="news_box fadeInUp animated">
+                    <figure><img src="img/news/n1.jpg" alt="" /></figure>
+                    <div class="news_info_wrapper">
+                        <div class="news_info">
+                            <h5>poison fragnances coming soon</h5>
+                <!--<ul class="news_meta">
+                    <li>by POISON</li>
+                    <li>Sep 20, 2013</li>
+                </ul>-->
+                <!--//news_meta-->
+                <!--<h6>3 comments</h6>
+            </div>
+                <!--news_info
+            </div>
+                <!--//news_info_wrapper-->
+                <!--<div class="hover"> 
+                    <a class="triggerNews" href="news.html" data-number="1">
+                        Read Full Article
+                    </a> 
+                </div>--> 
+                <!--//hover
+            </div>
+                <!--//news_box bounceInUp animated
 
-                        </div>
-                        <!--//news_carousel
+            </div>
+                <!--//news_carousel
 
-                    </div>
-                    <!--//news_widget
-                </section>
+            </div>
+                <!--//news_widget
+            </section>
                 <!--//News--> 
 
                 <!--<section id="newsAjaxWrapper" class="container">
@@ -568,7 +586,7 @@
 
                 <!--======================================
                     Parallax/Testimonial Section
-                    ==========================================-->
+                    ==========================================
                 <div id="section_6" class="parallax parallax_two testimonial" data-stellar-background-ratio="0.5">
                     <div class="parallax_inner">
                         <div class="container">
@@ -577,19 +595,126 @@
                                     <div class="testimonial_quotes owl-carousel owl-theme ">
                                         <blockquote> <b class="fa fa-quote-left"></b> Para crecer también hay que aprender, de otra manera solo es envejecer. <b class="fa fa-quote-right"></b></blockquote>                                   
                                     </div>
-                                    <!--testimonial_quotes carousel end here--> 
-                                </div>
-                                <!--column--> 
-                            </div>
-                            <!--row--> 
-                        </div>
-                        <!--container
-                        <a href="#" class="btn_itunes"><span class="fa fa-music"></span>poison itunes</a>--> 
-                    </div>
-                    <!--parallax_inner--> 
-                </div>
+                <!--testimonial_quotes carousel end here
+            </div>
+                <!--column
+            </div>
+                <!--row
+            </div>
+                <!--container
+                <a href="#" class="btn_itunes"><span class="fa fa-music"></span>poison itunes</a>
+            </div>
+                <!--parallax_inner 
+            </div>
                 <!--//parallax--> 
-
+                <!--======================================
+              Media Section
+              ==========================================-->
+                <section id="section_6" class="media_section">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-8">
+                                <div class="section_head_widget animatedParent">
+                                    <h2 class="animated fadeInLeft">Chey Musica</h2>
+                                    <h5 class="animated bounceInUp">music &amp; videos</h5>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-4 text-right">
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                                        Todo <span class="fa fa-caret-down"></span>
+                                    </button>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="#">mi musica</a></li>
+                                        <li><a href="#">composiciones</a></li>
+                                        <li><a href="#">videos</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row">
+                                <ul class="music_widget player_data">
+                                    <li class="music_row_header">
+                                        <div class="column_one"> # </div>
+                                        <div class="column_two"> &nbsp;</div>
+                                        <div class="column_three"> nombre </div>
+                                        <div class="column_four"> genero </div>
+                                        <div class="column_five"> compositor </div>
+                                        <div class="column_six"> duracion </div>
+                                        <div class="column_seven"> &nbsp;</div>
+                                        <div class="column_eight"> &nbsp;</div>
+                                    </li>
+                                    <li class="music_row">
+                                        <div class="column_one track_index"></div>
+                                        <div class="column_two track_thumb"></div>
+                                        <div class="column_three track_title"></div>
+                                        <div class="column_four track_genre"></div>
+                                        <div class="column_five track_composer"></div>
+                                        <div class="column_six track_length"></div>
+                                        <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
+                                    </li>
+                                    <li class="music_row">
+                                        <div class="column_one track_index"></div>
+                                        <div class="column_two track_thumb"></div>
+                                        <div class="column_three track_title"></div>
+                                        <div class="column_four track_genre"></div>
+                                        <div class="column_five track_composer"></div>
+                                        <div class="column_six track_length"></div>
+                                        <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
+                                    </li>
+                                    <li class="music_row">
+                                        <div class="column_one track_index"></div>
+                                        <div class="column_two track_thumb"></div>
+                                        <div class="column_three track_title"></div>
+                                        <div class="column_four track_genre"></div>
+                                        <div class="column_five track_composer"></div>
+                                        <div class="column_six track_length"></div>
+                                        <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
+                                    </li>
+                                    <li class="music_row">
+                                        <div class="column_one track_index"></div>
+                                        <div class="column_two track_thumb"></div>
+                                        <div class="column_three track_title"></div>
+                                        <div class="column_four track_genre"></div>
+                                        <div class="column_five track_composer"></div>
+                                        <div class="column_six track_length"></div>
+                                        <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
+                                    </li>
+                                    <li class="music_row">
+                                        <div class="column_one track_index"></div>
+                                        <div class="column_two track_thumb"></div>
+                                        <div class="column_three track_title"></div>
+                                        <div class="column_four track_genre"></div>
+                                        <div class="column_five track_composer"></div>
+                                        <div class="column_six track_length"></div>
+                                        <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
+                                    </li>
+                                     <li class="music_row">
+                                        <div class="column_one track_index"></div>
+                                        <div class="column_two track_thumb"></div>
+                                        <div class="column_three track_title"></div>
+                                        <div class="column_four track_genre"></div>
+                                        <div class="column_five track_composer"></div>
+                                        <div class="column_six track_length"></div>
+                                        <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
+                                    </li>
+                                    <li class="music_row">
+                                        <div class="column_one track_index"></div>
+                                        <div class="column_two track_thumb"></div>
+                                        <div class="column_three track_title"></div>
+                                        <div class="column_four track_genre"></div>
+                                        <div class="column_five track_composer"></div>
+                                        <div class="column_six track_length"></div>
+                                        <div class="column_seven"> <a class="play_it" href="#"><span class="fa fa-play"></span></a></div>
+                                    </li>
+                                </ul>
+                            </div>    
+                        </div>
+                    </div>
+                    <!--container--> 
+                </section>
+                <!--//media_section-->
                 <!--======================================
               Media Section
               ==========================================-->
@@ -598,7 +723,7 @@
                         <div class="row">
                             <div class="col-xs-12 col-sm-8">
                                 <div class="section_head_widget animatedParent">
-                                    <h2 class="animated fadeInLeft">Chey Media</h2>
+                                    <h2 class="animated fadeInLeft">Chey Videos</h2>
                                     <h5 class="animated bounceInUp">music &amp; videos</h5>
                                 </div>
                             </div>
@@ -762,177 +887,177 @@
                                     <h5>all tours this year</h5>
                                 </div>
                             </div>
-                            <!--section_head_widget
+                <!--section_head_widget
+            </div>
+                <!--row
+
+                <div class="tours_widget">
+                    <div class="tour_row_header">
+                        <div class="column_one"> Date </div>
+                        <div class="column_two"> &nbsp;<!--no header for picture column
                         </div>
-                        <!--row
-
-                        <div class="tours_widget">
-                            <div class="tour_row_header">
-                                <div class="column_one"> Date </div>
-                                <div class="column_two"> &nbsp;<!--no header for picture column
-                                </div>
-                                <div class="column_three"> Location </div>
-                                <div class="column_four"> Venue </div>
-                                <div class="column_five"> Notes </div>
-                                <div class="column_six"> Tickets </div>
+                        <div class="column_three"> Location </div>
+                        <div class="column_four"> Venue </div>
+                        <div class="column_five"> Notes </div>
+                        <div class="column_six"> Tickets </div>
+                    </div>
+                    <div class="tour_row animatedParent  ">
+                        <div class="animated fadeInDownShort">
+                            <div class="column_one">
+                                <span>10/10/14</span>
                             </div>
-                            <div class="tour_row animatedParent  ">
-                                <div class="animated fadeInDownShort">
-                                    <div class="column_one">
-                                        <span>10/10/14</span>
-                                    </div>
-                                    <div class="column_two"> <img src="img/media/media_07.jpg" alt="" /> </div>
-                                    <div class="column_three"> Lorem Center </div>
-                                    <div class="column_four"> Fairfax, VA US </div>
-                                    <div class="column_five"> vIP Offers Sold Out </div>
-                                    <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
-                                </div>
-                            </div>
-                            <!--tour row
-
-                            <div class="tour_row animatedParent  ">
-                                <div class="animated fadeInDownShort">
-                                    <div class="column_one">
-                                        <span>10/11/14</span>
-                                    </div>
-                                    <div class="column_two"> <img src="img/media/media_01.jpg" alt="" /> </div>
-                                    <div class="column_three"> Lorem Events Center </div>
-                                    <div class="column_four"> Pittsburgh, PA US </div>
-                                    <div class="column_five"> with Emblem3 </div>
-                                    <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
-                                </div>
-                            </div>
-                            <!--tour row
-
-                            <div class="tour_row animatedParent  ">
-                                <div class="animated fadeInDownShort">
-                                    <div class="column_one">
-                                        <span>15/11/14</span>
-                                    </div>
-                                    <div class="column_two"> <img src="img/media/media_05.jpg" alt="" /> </div>
-                                    <div class="column_three"> TD Lorem </div>
-                                    <div class="column_four"> Boston, MA US </div>
-                                    <div class="column_five"> with Emblem3 </div>
-                                    <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
-                                </div>
-                            </div>
-                            <!--tour row
-
-                            <div class="tour_row animatedParent  ">
-                                <div class="animated fadeInDownShort">
-                                    <div class="column_one">
-                                        <span>20/11/14</span>
-                                    </div>
-                                    <div class="column_two"> <img src="img/media/media_01.jpg" alt="" /> </div>
-                                    <div class="column_three"> Lorem Center </div>
-                                    <div class="column_four"> Fairfax, VA US </div>
-                                    <div class="column_five"> vIP Offers Sold Out </div>
-                                    <div class="column_six"> <a class="btn btn_buy_ticket sold_out" href="#">Sold Out</a> </div>
-                                </div>
-                            </div>
-                            <!--tour row
-
-                            <div class="tour_row animatedParent  ">
-                                <div class="animated fadeInDownShort">
-                                    <div class="column_one">
-                                        <span>25/11/14</span>
-                                    </div>
-                                    <div class="column_two"> <img src="img/media/media_08.jpg" alt="" /> </div>
-                                    <div class="column_three"> Wells Fargo Center </div>
-                                    <div class="column_four"> Philadelphia, PA US </div>
-                                    <div class="column_five"> with Emblem3 </div>
-                                    <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
-                                </div>
-                            </div>
-                            <!--tour row
-
-                            <div class="tour_row animatedParent  ">
-                                <div class="animated fadeInDownShort">
-                                    <div class="column_one">
-                                        <span>30/11/14</span>
-                                    </div>
-                                    <div class="column_two"> <img src="img/media/media_07.jpg" alt="" /> </div>
-                                    <div class="column_three"> Lorem Center </div>
-                                    <div class="column_four"> Fairfax, VA US </div>
-                                    <div class="column_five"> vIP Offers Sold Out </div>
-                                    <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
-                                </div>
-                            </div>
-                            <!--tour row
-
-                            <div class="tour_row animatedParent  ">
-                                <div class="animated fadeInDownShort">
-                                    <div class="column_one">
-                                        <span>1/12/14</span>
-                                    </div>
-                                    <div class="column_two"> <img src="img/media/media_06.jpg" alt="" /> </div>
-                                    <div class="column_three"> Lorem Center </div>
-                                    <div class="column_four"> Fairfax, VA US </div>
-                                    <div class="column_five"> with Emblem3 </div>
-                                    <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
-                                </div>
-                            </div>
-                            <!--tour row
-
-                            <div class="tour_row animatedParent  ">
-                                <div class="animated fadeInDownShort">
-                                    <div class="column_one">
-                                        <span>10/12/14</span>
-                                    </div>
-                                    <div class="column_two"> <img src="img/media/media_02.jpg" alt="" /> </div>
-                                    <div class="column_three"> Lorem Center </div>
-                                    <div class="column_four"> Fairfax, VA US </div>
-                                    <div class="column_five"> vIP Offers Sold Out </div>
-                                    <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
-                                </div>
-                            </div>
-                            <!--tour row
-
-                            <div class="tour_row animatedParent  ">
-                                <div class="animated fadeInDownShort">
-                                    <div class="column_one">
-                                        <span>15/12/14</span>
-                                    </div>
-                                    <div class="column_two"> <img src="img/media/media_03.jpg" alt="" /> </div>
-                                    <div class="column_three"> Lorem Center </div>
-                                    <div class="column_four"> Fairfax, VA US </div>
-                                    <div class="column_five"> with Emblem3 </div>
-                                    <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
-                                </div>
-                            </div>
-                            <!--tour row
-
-                            <div class="tour_row animatedParent  ">
-                                <div class="animated fadeInDownShort">
-                                    <div class="column_one">
-                                        <span>20/12/14</span>
-                                    </div>
-                                    <div class="column_two"> <img src="img/media/media_04.jpg" alt="" /> </div>
-                                    <div class="column_three"> Lorem Center </div>
-                                    <div class="column_four"> Fairfax, VA US </div>
-                                    <div class="column_five"> vIP Offers Sold Out </div>
-                                    <div class="column_six"> <a class="btn btn_buy_ticket sold_out" href="#">Sold Out</a> </div>
-                                </div>
-                            </div>
-                            <!--tour row
-
-                            <div class="tour_row animatedParent  ">
-                                <div class="animated fadeInDownShort">
-                                    <div class="column_one">
-                                        <span>25/12/14</span>
-                                    </div>
-                                    <div class="column_two"> <img src="img/media/media_05.jpg" alt="" /> </div>
-                                    <div class="column_three"> Ipsum! Center </div>
-                                    <div class="column_four"> Louisville, KY US </div>
-                                    <div class="column_five"> vIP Offers Sold Out </div>
-                                    <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
-                                </div>
-                            </div>
-                            <!--tour row
+                            <div class="column_two"> <img src="img/media/media_07.jpg" alt="" /> </div>
+                            <div class="column_three"> Lorem Center </div>
+                            <div class="column_four"> Fairfax, VA US </div>
+                            <div class="column_five"> vIP Offers Sold Out </div>
+                            <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
                         </div>
                     </div>
-                    <!--container
-                </section>
+                <!--tour row
+
+                <div class="tour_row animatedParent  ">
+                    <div class="animated fadeInDownShort">
+                        <div class="column_one">
+                            <span>10/11/14</span>
+                        </div>
+                        <div class="column_two"> <img src="img/media/media_01.jpg" alt="" /> </div>
+                        <div class="column_three"> Lorem Events Center </div>
+                        <div class="column_four"> Pittsburgh, PA US </div>
+                        <div class="column_five"> with Emblem3 </div>
+                        <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
+                    </div>
+                </div>
+                <!--tour row
+
+                <div class="tour_row animatedParent  ">
+                    <div class="animated fadeInDownShort">
+                        <div class="column_one">
+                            <span>15/11/14</span>
+                        </div>
+                        <div class="column_two"> <img src="img/media/media_05.jpg" alt="" /> </div>
+                        <div class="column_three"> TD Lorem </div>
+                        <div class="column_four"> Boston, MA US </div>
+                        <div class="column_five"> with Emblem3 </div>
+                        <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
+                    </div>
+                </div>
+                <!--tour row
+
+                <div class="tour_row animatedParent  ">
+                    <div class="animated fadeInDownShort">
+                        <div class="column_one">
+                            <span>20/11/14</span>
+                        </div>
+                        <div class="column_two"> <img src="img/media/media_01.jpg" alt="" /> </div>
+                        <div class="column_three"> Lorem Center </div>
+                        <div class="column_four"> Fairfax, VA US </div>
+                        <div class="column_five"> vIP Offers Sold Out </div>
+                        <div class="column_six"> <a class="btn btn_buy_ticket sold_out" href="#">Sold Out</a> </div>
+                    </div>
+                </div>
+                <!--tour row
+
+                <div class="tour_row animatedParent  ">
+                    <div class="animated fadeInDownShort">
+                        <div class="column_one">
+                            <span>25/11/14</span>
+                        </div>
+                        <div class="column_two"> <img src="img/media/media_08.jpg" alt="" /> </div>
+                        <div class="column_three"> Wells Fargo Center </div>
+                        <div class="column_four"> Philadelphia, PA US </div>
+                        <div class="column_five"> with Emblem3 </div>
+                        <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
+                    </div>
+                </div>
+                <!--tour row
+
+                <div class="tour_row animatedParent  ">
+                    <div class="animated fadeInDownShort">
+                        <div class="column_one">
+                            <span>30/11/14</span>
+                        </div>
+                        <div class="column_two"> <img src="img/media/media_07.jpg" alt="" /> </div>
+                        <div class="column_three"> Lorem Center </div>
+                        <div class="column_four"> Fairfax, VA US </div>
+                        <div class="column_five"> vIP Offers Sold Out </div>
+                        <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
+                    </div>
+                </div>
+                <!--tour row
+
+                <div class="tour_row animatedParent  ">
+                    <div class="animated fadeInDownShort">
+                        <div class="column_one">
+                            <span>1/12/14</span>
+                        </div>
+                        <div class="column_two"> <img src="img/media/media_06.jpg" alt="" /> </div>
+                        <div class="column_three"> Lorem Center </div>
+                        <div class="column_four"> Fairfax, VA US </div>
+                        <div class="column_five"> with Emblem3 </div>
+                        <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
+                    </div>
+                </div>
+                <!--tour row
+
+                <div class="tour_row animatedParent  ">
+                    <div class="animated fadeInDownShort">
+                        <div class="column_one">
+                            <span>10/12/14</span>
+                        </div>
+                        <div class="column_two"> <img src="img/media/media_02.jpg" alt="" /> </div>
+                        <div class="column_three"> Lorem Center </div>
+                        <div class="column_four"> Fairfax, VA US </div>
+                        <div class="column_five"> vIP Offers Sold Out </div>
+                        <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
+                    </div>
+                </div>
+                <!--tour row
+
+                <div class="tour_row animatedParent  ">
+                    <div class="animated fadeInDownShort">
+                        <div class="column_one">
+                            <span>15/12/14</span>
+                        </div>
+                        <div class="column_two"> <img src="img/media/media_03.jpg" alt="" /> </div>
+                        <div class="column_three"> Lorem Center </div>
+                        <div class="column_four"> Fairfax, VA US </div>
+                        <div class="column_five"> with Emblem3 </div>
+                        <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
+                    </div>
+                </div>
+                <!--tour row
+
+                <div class="tour_row animatedParent  ">
+                    <div class="animated fadeInDownShort">
+                        <div class="column_one">
+                            <span>20/12/14</span>
+                        </div>
+                        <div class="column_two"> <img src="img/media/media_04.jpg" alt="" /> </div>
+                        <div class="column_three"> Lorem Center </div>
+                        <div class="column_four"> Fairfax, VA US </div>
+                        <div class="column_five"> vIP Offers Sold Out </div>
+                        <div class="column_six"> <a class="btn btn_buy_ticket sold_out" href="#">Sold Out</a> </div>
+                    </div>
+                </div>
+                <!--tour row
+
+                <div class="tour_row animatedParent  ">
+                    <div class="animated fadeInDownShort">
+                        <div class="column_one">
+                            <span>25/12/14</span>
+                        </div>
+                        <div class="column_two"> <img src="img/media/media_05.jpg" alt="" /> </div>
+                        <div class="column_three"> Ipsum! Center </div>
+                        <div class="column_four"> Louisville, KY US </div>
+                        <div class="column_five"> vIP Offers Sold Out </div>
+                        <div class="column_six"> <a class="btn btn_buy_ticket" href="#">buy tickets</a> </div>
+                    </div>
+                </div>
+                <!--tour row
+            </div>
+        </div>
+                <!--container
+            </section>
                 <!--//tours--> 
 
                 <!--======================================
@@ -945,14 +1070,14 @@
                                 <div class="col-xs-12"> <span class="fa fa-twitter tweet_icon"></span>
                                     <div class="tweet"></div>
                                 </div>
-                                <!--column
-                            </div>
-                            <!--row 
-                        </div>
-                        <!--container
-                    </div>
-                    <!--parallax_inner
-                </div>
+                <!--column
+            </div>
+                <!--row 
+            </div>
+                <!--container
+            </div>
+                <!--parallax_inner
+            </div>
                 <!--//parallax--> 
                 <!--======================================
               Team/Band Members
@@ -966,38 +1091,38 @@
                                     <h5>band biography</h5>
                                 </div>
                             </div>
-                            <!--column
-                        </div>
-                        <!--row
-                    </div>
-                    <!--contaier
-                    <div class="team_widget">
-                        <div class="container controls_wrapper animatedParent ">
-                            <div class="carousel_controls"> <span id="member-prev" class="fa fa-angle-left animated fadeInLeft"></span> <span id="member-next" class="fa fa-angle-right animated bounceInRight"></span> </div>
-                            <!--controls
-                        </div>
-                        <!--//controls_wrapper//carousel_overlay
+                <!--column
+            </div>
+                <!--row
+            </div>
+                <!--contaier
+                <div class="team_widget">
+                    <div class="container controls_wrapper animatedParent ">
+                        <div class="carousel_controls"> <span id="member-prev" class="fa fa-angle-left animated fadeInLeft"></span> <span id="member-next" class="fa fa-angle-right animated bounceInRight"></span> </div>
+                <!--controls
+            </div>
+                <!--//controls_wrapper//carousel_overlay
 
-                        <div class="members_carousel animatedParent" data-sequence="400">
-                            <figure class="animated fadeInLeft" data-id="1"> <img src="img/team/member-1.jpg" alt=""/>
-                                <figcaption><a href="#">jackson peterson</a></figcaption>
-                            </figure>
-                            <figure class="animated fadeInLeft" data-id="2"> <img src="img/team/member-2.jpg" alt=""/>
-                                <figcaption><a href="#">willaims Adam Jonas</a></figcaption>
-                            </figure>
-                            <figure class="animated fadeInLeft" data-id="3"> <img src="img/team/member-3.jpg" alt=""/>
-                                <figcaption><a href="#">jacobs Jerry Jonas</a></figcaption>
-                            </figure>
-                            <figure class="animated fadeInLeft" data-id="4"> <img src="img/team/member-4.jpg" alt=""/>
-                                <figcaption><a href="#">michael Jonas II</a></figcaption>
-                            </figure>
-                            <figure class="animated fadeInLeft" data-id="5"> <img src="img/team/member-5.jpg" alt=""/>
-                                <figcaption><a href="#">david Tomlinson</a></figcaption>
-                            </figure>
-                        </div>
-                        <!--members_carousel
-                    </div>
-                </section>
+                <div class="members_carousel animatedParent" data-sequence="400">
+                    <figure class="animated fadeInLeft" data-id="1"> <img src="img/team/member-1.jpg" alt=""/>
+                        <figcaption><a href="#">jackson peterson</a></figcaption>
+                    </figure>
+                    <figure class="animated fadeInLeft" data-id="2"> <img src="img/team/member-2.jpg" alt=""/>
+                        <figcaption><a href="#">willaims Adam Jonas</a></figcaption>
+                    </figure>
+                    <figure class="animated fadeInLeft" data-id="3"> <img src="img/team/member-3.jpg" alt=""/>
+                        <figcaption><a href="#">jacobs Jerry Jonas</a></figcaption>
+                    </figure>
+                    <figure class="animated fadeInLeft" data-id="4"> <img src="img/team/member-4.jpg" alt=""/>
+                        <figcaption><a href="#">michael Jonas II</a></figcaption>
+                    </figure>
+                    <figure class="animated fadeInLeft" data-id="5"> <img src="img/team/member-5.jpg" alt=""/>
+                        <figcaption><a href="#">david Tomlinson</a></figcaption>
+                    </figure>
+                </div>
+                <!--members_carousel
+            </div>
+        </section>
 
                 <!--======================================
               About
@@ -1007,8 +1132,8 @@
                         <div class="row">
                             <div class="col-xs-12">
                                 <div class="section_head_widget animatedParent ">
-                                    <h1 class="animated fadeInDown">Their amazing story</h1>
-                                    <h4>how they came to be so famous.</h4>
+                                    <h1 class="animated fadeInDown">Conoce nuestra historia</h1>
+                                    <h4>La honestidad es el principio que nos caracteriza</h4>
                                 </div>
                             </div>
                             <!--section_head_widget--> 
@@ -1037,60 +1162,14 @@
                 <div class="modal fade" id="gal_pop" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog">
                         <div class="modal-content">
-                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                            <button type="button" class="close destroy_owl" data-dismiss="modal"><span aria-hidden="true">&times;</span></button>
                             <div class="modal-body">
-
-                                <div class="gallery_popup container">
-                                    <ul class="gallayoutOption">
-                                        <li class="active"><a href="#" class="fa fa-th gridGallery"></a></li>
-                                        <li><a href="#" class="fa fa-picture-o sliderGallery"></a></li>
-                                    </ul>
-
-                                    <h2>Behind the scenes</h2>
-                                    <h6>24 Videos</h6>
-
-                                    <div class="galery_widget">
-                                        <ul class="gal_list">
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g5.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g6.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g7.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g8.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g9.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g10.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g11.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g12.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g13.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g14.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g15.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g16.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g17.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g18.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g19.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g20.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g1.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g2.jpg" alt="" /></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g3.jpg" alt=""/></a></li>
-                                            <li class="trigger_slider"><a href="#"><img src="img/gallery/g4.jpg" alt=""/></a></li>
-                                        </ul>
-
-                                        <!--<ul class="social_share">
-                                            <li><a class="btn-share twitter" href="#">Tweet</a><span class="share-count">896</span></li>
-                                            <li><a class="btn-share facebook" href="#">Like</a><span class="share-count">2k</span></li>
-                                            <li><a class="btn-share google-plus" href="#">1+</a><span class="share-count">18</span></li>
-                                        </ul>
-
-                                        <ul class="channels_list row">
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                            <li class="col-xs-12 col-sm-4"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                            <li class="col-xs-12 col-sm-4"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        </ul>-->
-
-                                    </div>
-                                </div><!--gallery-popup-->
+                                <div style="text-align: center; display: block">
+                                    <video width="80%" controls>
+                                        <source src="video/video-1472087242.mp4" type="video/ogg">
+                                        <source src="video/video-1472087242.ogv" type="video/mp4">
+                                    </video>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -1102,72 +1181,65 @@
                 <footer id="section_13" class="parallax parallax_five footer" data-stellar-background-ratio="0.5">
                     <div class="parallax_inner">
                         <div class="container">
-                            <!--=========================
-                            Contact Form
-                            ===========================-->          
+
                             <div class="contact_Us">
-                                <div class="tabs-wrap tabs-wrap-active clearfix">
+                                <!--<div class="tabs-wrap tabs-wrap-active clearfix">
                                     <ul class="tabs">
                                         <li class="tab-link tab-link1 active" data-tab="tab1">
-                                            <span>Get Social</span>
+                                            <span>Redes Sociales</span>
                                         </li>
                                         <li class="tab-link tab-link2" data-tab="tab2">
                                             <span>Message Us</span>
                                         </li>
                                     </ul>
-                                </div><!--tab wrapper-->
+                                </div>-->
 
-                                <div id="tab1" class="tab-content active">   
+                                <div class="tab-content active">   
                                     <ul class="channels_list row animatedParent " data-sequence="400">
-                                        <li class="col-xs-12 col-sm-4 animated fadeInLeftShort" data-id="1"> <a href="#"><i class="fa fa-circular fa-music"></i>poison itunes</a></li>
-                                        <li class="col-xs-12 col-sm-4 animated fadeInLeft" data-id="2"><a href="#"><i class="fa fa-soundcloud"></i>poison soundcloud</a></li>
-                                        <li class="col-xs-12 col-sm-4  animated fadeInLeft" data-id="3"> <a href="#"><i class="fa fa-youtube"></i>poison youtube</a></li>
-                                        <li class="col-xs-12 col-sm-4 animated fadeInLeft" data-id="4"> <a href="#"><i class="fa fa-instagram"></i>poison Instagram</a></li>
-                                        <li class="col-xs-12 col-sm-4  animated fadeInLeft" data-id="5"> <a href="#"><i class="fa fa-flickr"></i>poison Flicker</a></li>
-                                        <li class="col-xs-12 col-sm-4  animated fadeInLeft" data-id="6"> <a href="#"><i class="fa fa-pinterest"></i>poison pinterest</a></li>
+                                        <li class="animated fadeInLeftShort" data-id="1"> <a href="#"><i class="fa fa-instagram"></i></a></li>
+                                        <li class="animated fadeInLeft" data-id="2"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li class="animated fadeInLeft" data-id="3"> <a href="#"><i class="fa fa-youtube"></i></a></li>
+                                        <li class="animated fadeInLeft" data-id="4"> <a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <!--<li class="col-xs-12 col-sm-4  animated fadeInLeft" data-id="5"> <a href="#"><i class="fa fa-flickr"></i></a></li>
+                                        <li class="col-xs-12 col-sm-4  animated fadeInLeft" data-id="6"> <a href="#"><i class="fa fa-pinterest"></i></a></li>-->
                                     </ul>
                                 </div>
-                                <div id="tab2" class="tab-content animatedParent">  
+                                <!--<div id="tab2" class="tab-content animatedParent">  
                                     <div class="contactFormWrapper ">
                                         <form id="contactform" action="assets/php/submit.php" method="post">
                                             <div class="row">
                                                 <div class="col-xs-12 col-md-4">
                                                     <input type="text" id="name" placeholder="Name"/>
-                                                </div><!--column-->
+                                                </div>
                                                 <div class="col-xs-12 col-md-4">
                                                     <input type="text" name="email" id="email" placeholder="Email" />
-                                                </div><!--column-->
+                                                </div>
                                                 <div class="col-xs-12 col-md-4">
                                                     <input type="text" name="subject" id="subject" placeholder="Subject" />
-                                                </div><!--column-->
+                                                </div>
                                                 <div class="col-xs-12 col-md-8">
                                                     <textarea placeholder="Message" name="message" id="message"></textarea>
-                                                </div><!--column-->
+                                                </div>
                                                 <div class="col-xs-12 col-md-4">
                                                     <button class="btn btn-default" id="submit1" type="submit">
                                                         send message
                                                     </button>
-                                                </div><!--column-->
-
-                                            </div><!--row-->
+                                                </div>
+                                            </div>
                                         </form>
                                         <div id="valid-issue" style="display:none;"> Please Provide Valid Information</div>  
                                     </div>
-                                </div>
-
+                                </div>-->
                             </div>  
-
-
                             <div class="row">
                                 <div class="col-xs-12">
-                                    <div class="copyrights">&copy; 2014 <a href="#">Chey producciones</a>.</div>
+                                    <div class="copyrights">&copy; 2017 <a href="#">Chey producciones</a>.</div>
                                 </div>
                             </div>
-                        </div><!--container--> 
-                    </div><!--parallax_inner--> 
-                </footer><!--//parallax--> 
+                        </div>
+                    </div>
+                </footer>
             </div>
-
         </div>
         <!--===================================================================
         Scripts

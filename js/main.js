@@ -128,57 +128,7 @@ jQuery(function($){
 		});
 	}
 	
-	/*=======================================
-	4-Gallery
-	=======================================*/
-	
-	$('.sliderGallery,.trigger_slider').click(function(e){
-		e.preventDefault();
-        var $this=$(this), 
-            p = $this.parents(".modal"), 
-            gallayoutOption = p.find('.gallayoutOption'),
-            gal_list =p.find('.gal_list'),
-            socialShare = p.find('.social_share');
-        
-		gallayoutOption.children("li").removeClass('active');
-		$this.parent('li').addClass('active');
-        
-		gal_list.children("li").each(function() {
-			$(this).removeClass('trigger_slider').addClass('gallery-item');
-        });
-        
-		gal_list.addClass('owl-carousel owl-gallery');
-		 gal_list.owlCarousel({
-			slideSpeed : 1000,
-			pagination : false,
-			singleItem:true,
-			navigation : true,
-		 });
-		 socialShare.slideDown();
-	});
-	
-	$('.gridGallery').on('click', function (e) {
-        e.preventDefault();
-        var $this=$(this), 
-            p = $this.parents(".modal"),
-            gallayoutOption = p.find('.gallayoutOption'),
-            socialShare = p.find('.social_share'),
-            gal_list =p.find('.gal_list'),
-            owlGal = p.find(".owl-gallery");
-        
-		gallayoutOption.children("li").removeClass('active');
-		$this.parent('li').addClass('active');
-        
-        socialShare.slideUp();
-        
-		if(owlGal.length){
-			owlGal.data('owlCarousel').destroy();
-			gal_list.children("li").each(function() {
-				$(this).addClass('trigger_slider').removeClass('gallery-item');
-			});
-			gal_list.removeClass('owl-carousel owl-gallery');
-		}
-	});
+
 	
 	/*=======================================
 	5-Fraction Slider

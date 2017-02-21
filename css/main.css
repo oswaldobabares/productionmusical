@@ -145,8 +145,8 @@ img {
 }
 .primary_color { color: #13a7cc; }
 section, .section {
-    padding-top: 42px;
-    padding-bottom: 42px;
+    padding-top: 55px;
+    padding-bottom: 55px;
     overflow: hidden;
 }
 
@@ -214,7 +214,7 @@ a.btn_fb:hover, .btn_fb:hover{
 }
 .modal-dialog{
     width:100%;
-    margin-top:0;
+    margin:0 auto;
     overflow:hidden;
 }
 .modal-body{
@@ -227,18 +227,18 @@ a.btn_fb:hover, .btn_fb:hover{
     border:none;
     display:block;
     margin:0 auto;
-    max-width:95%;
+    max-width:100%;
 }
 .modal button.close{
-    width:50px;
-    height:50px;
-    font-size:35px;
+    width: 50px;
+    height: 50px;
+    font-size: 50px;
     position: absolute;
-    right:5px;
-    top:0px;
-    float:none;
-    z-index:999;
-    opacity:1;
+    right: 30px;
+    top: 0px;
+    float: none;
+    z-index: 999;
+    opacity: 1;
 }
 .modal-open {
     overflow: visible;
@@ -260,7 +260,7 @@ a.ScrollTo{
     left: 50%;
     margin-left: -50px;
     top: 100%;
-    margin-top: 300px;
+    margin-top: 200px;
     width: 70px;
     height: 70px;
     border-radius: 50%;
@@ -669,7 +669,7 @@ div.playlist_expander{
 .parallax_two { background-image: url(../img/BG/header04.jpg);}
 .parallax_three { background-image: url(../img/BG/header06.jpg);}
 .parallax_four { background-image: url(../img/BG/parallax4.jpg);}
-.parallax_five { background-image: url(../img/BG/parallax5.jpg);}
+.parallax_five { background-image: url(../img/BG/header04.jpg);}
 
 /*==========================
 7-Channels
@@ -681,26 +681,25 @@ div.playlist_expander{
     display: block;
     width: 100%;
     background: #fff;
-    padding: 15px 30px;
+    padding: 30px 0px;
     position: relative;
-    text-align: right;
     color: #222222;
-    overflow:hidden;
+    overflow: hidden;
 }
 .channels_list li a:hover {
-    background: #cc1313;
+    background: #13a7cc;
     color: #fff;
 }
 .channels_list li a i {
     position: absolute;
-    left: 30px;
-    top: 15px;
-    height: 35px;
-    width: 35px;
-    line-height: 35px;
-    font-size: 20px;
+    left: 10px;
+    top: 10px;
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+    font-size: 35px;
     text-align: center;
-    overflow:hidden;
+    overflow: hidden;
 }
 .channels_list li a:hover i{
     -webkit-animation: toUpCustom 0.3s forwards;
@@ -720,9 +719,10 @@ div.playlist_expander{
     border-color:#fff;
 }
 .channels_list li {
-    display: block;
-    margin-bottom: 30px;
+    display: inline-block;
     list-style: none;
+    width: 5%;
+    margin-right: 10px;
 }
 .track_section .channels_list li {
     margin-top: 0;
@@ -1203,8 +1203,8 @@ div.playlist_expander{
     display:none;
 }
 .modal-body{
-    background:#fff;
-    padding-bottom:40px;
+    background:#000;
+    padding: 50px 0;
 }
 .modal h2{
     color:#222;
@@ -1371,14 +1371,14 @@ a.btn_itunes:hover{
 }
 .media_widget figure a:after {
     font-family: 'FontAwesome';
-    content: "\f067";
-    color: #cc1313;
-    font-size: 22px;
+    content: "\f144 ";
+    color: #13a7cc;
+    font-size: 32px;
     position: absolute;
     left: 50%;
     margin-left: -26px;
     top: -30%;
-    margin-top: -26px;
+    margin-top: -24px;
     width: 52px;
     height: 52px;
     border-radius: 50%;
@@ -1457,7 +1457,7 @@ a.btn_itunes:hover{
     color:#222;
 }
 .gallayoutOption li.active a{
-    color:#cc1313;
+    color:#fff;
 }
 .gallayoutOption li{
     display:inline-block;
@@ -1485,7 +1485,7 @@ a.btn_itunes:hover{
     overflow:hidden;
 }
 .galery_widget .owl-theme .owl-controls .owl-buttons div:hover{
-    background-color:#cc1313;
+    background-color:#fff;
 }
 .galery_widget .owl-theme .owl-controls .owl-buttons div.owl-prev{
     background-image:url(../img/basic/gal-pre.png);
@@ -1570,7 +1570,7 @@ a.btn_itunes:hover{
     color: #cc1313;
     display: table;
     clear: both;
-    width: 80%;
+    width: 70%;
     padding-top: 15px;
     padding-bottom: 15px;
 }
@@ -1601,7 +1601,7 @@ a.btn_itunes:hover{
 .tour_row, .music_row {
     display: table;
     clear: both;
-    width: 80%;
+    width: 70%;
     border-top: 1px solid #343434;
     border-bottom: 0px solid #fff;
     padding-bottom: 1px;
@@ -1686,7 +1686,6 @@ ul.music_widget{
     padding:0;
 }
 ul.music_widget > li{
-    display:block;
     list-style:none;
     padding-bottom:0;
 }
@@ -1714,7 +1713,7 @@ ul.music_widget > li{
     border-bottom:2px solid #ebebeb;
 }
 .music_row:hover {
-    border-color: #cc1313;
+    border-color: #13a7cc;
     border-bottom: 2px solid #222222;
     padding-bottom: 0;
 }
@@ -1765,7 +1764,7 @@ ul.music_widget > li{
     color:#fff;
 }
 .music_row .column_seven a:hover{
-    color:#cc1313;
+    color:#13a7cc;
 }
 .play_list .music_row .column_one,.play_list .music_row .column_three,.play_list .music_widget .column_six{
     color:#fff;
@@ -1915,7 +1914,7 @@ Contact Form
 }
 .tab-content {
     display: none;
-    padding-top: 100px;
+    padding-top: 250px;
 }
 .tab-content.active{display: block;}
 ul.tabs li.active{background-color: #d41010;}
