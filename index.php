@@ -517,9 +517,8 @@
                                             <h4>Le damos tono a tus ideas</h4>
                                         </div>
                                         <!--news_info--> 
-                                    </div>
-                                    <!--//news_info_wrapper
-                                    <div class="hover">  <a class="triggerTrack" href="albums.html" data-number="2"> Read Full Article </a> </div>
+                                    </div>                            
+                                    <div class="hover"><h5>Read Full Article Read Full Article Read Full Article Read Full Article Read Full Article Read Full Article</h5></div>
                                     <!--//hover--> 
                                 </div>
                                 <!--//news_box--> 
@@ -535,8 +534,7 @@
                                         </div>
                                         <!--news_info--> 
                                     </div>
-                                    <!--//news_info_wrapper
-                                    <div class="hover"> <a class="triggerTrack" href="albums.html" data-number="3"> Read Full Article </a> </div>
+                                    <div class="hover"><h5>Read Full Article Read Full Article Read Full Article Read Full Article Read Full Article Read Full Article</h5></div>
                                     <!--//hover--> 
                                 </div>
                                 <!--//news_box--> 
