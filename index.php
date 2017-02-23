@@ -136,7 +136,7 @@
                                 <li class="active"><a href="#section_2">Servicios</a></li>
                                 <li><a href="#section_3">Musica</a></li>
                                 <li><a href="#section_4">Videos</a></li>
-                                <li><a href="#section_6">Acerca de</a></li>
+                                <li><a href="#section_6">Contactanos</a></li>
                             </ul>
                         </div>
                     </div>
@@ -202,7 +202,7 @@
                                     <h5 class="animated bounceInUp">composiciones &amp; covers</h5>
                                 </div>
                             </div>
-                            <!--<div class="col-xs-12 col-sm-4 text-right">
+                            <div class="col-xs-12 col-sm-4 text-right">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
                                         Todo <span class="fa fa-caret-down"></span>
@@ -213,7 +213,7 @@
                                         <li><a href="#">videos</a></li>
                                     </ul>
                                 </div>
-                            </div>-->
+                            </div>
                         </div>
                         <div class="container">
                             <div class="row">
