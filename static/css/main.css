@@ -12,6 +12,10 @@ body {
     overflow-y:scroll;
 }
 
+/*===========================
+General Styles
+=============================*/
+
 .sections_wrapper{
     background: url(../img/BG/bodyBG.jpg) center center #161616;
 }
@@ -51,7 +55,6 @@ img {
     max-width: 100%;
     height: auto;
 }
-
 .primary_color { color: #13a7cc; }
 section, .section {
     padding-top: 55px;
@@ -154,6 +157,9 @@ a.btn_fb:hover, .btn_fb:hover{
 }
 .section_head_widget h5{ color: #13a7cc; }
 
+/*==========================
+Main Bannners
+==========================*/
 .hero_section,.poison_slider { position: relative; }
 .hero_section .hero_content {
     display: table;
@@ -308,6 +314,7 @@ a.ScrollTo{
     max-width:100% !important;
 }
 
+
 .banner-right-align.banner_slider .btn{
     float:none;
     margin-top:15px;
@@ -330,7 +337,9 @@ a.ScrollTo{
     -o-transform:translateY(-40%);
     -ms-transform:translateY(-40%);
 }
-
+/*==========================
+Audio Player
+==========================*/
 .play_list{
     background:#13a7cc;
     padding-top:20px;
@@ -465,6 +474,9 @@ div.playlist_expander{
     display:none;
 }
 
+/*==========================
+Banner
+==========================*/
 .banner { color: #fff; position:relative; }
 .banner p{
     font-size:14px;
@@ -538,7 +550,9 @@ div.playlist_expander{
 .video-load{
     display:block;
 }
-
+/*==========================
+parallax
+==========================*/
 .parallax {
     overflow:hidden;
     clear:both;
@@ -560,10 +574,15 @@ div.playlist_expander{
     padding-top: 150px;
     padding-bottom: 150px;
 }
+.parallax_one { background-image: url(../img/BG/parallax1.jpg);}
 .parallax_two { background-image: url(../img/BG/header04.jpg);}
 .parallax_three { background-image: url(../img/BG/header06.jpg);}
+.parallax_four { background-image: url(../img/BG/parallax4.jpg);}
 .parallax_five { background-image: url(../img/BG/header04.jpg);}
 
+/*==========================
+Channels
+==========================*/
 .channels_list{
     overflow:hidden;
 }
@@ -690,7 +709,9 @@ div.playlist_expander{
         opacity: 1;
     }
 }
-
+/*=========================
+Navigation
+===========================*/
 .navbar-default{
     background:#fff;
     border:none;
@@ -734,7 +755,9 @@ div.playlist_expander{
     background:none;
     color:#cc1313;
 }
-
+/*==========================
+News/Tracks
+==========================*/
 .track_detail_wrapper{
     position:relative;
 }
@@ -875,7 +898,9 @@ div.playlist_expander{
     position: absolute;
     z-index: 99;
 }
-
+/*==========================
+popup
+==========================*/
 .content_expander{
     position:relative;
     display:none;
@@ -998,6 +1023,72 @@ div.playlist_expander{
     padding-bottom: 215px;
 }
 
+/*==========================
+14-testimonial
+==========================*/
+.testimonial {
+    padding-top: 0px;
+    padding-bottom: 50;
+}
+.testimonial .parallax_inner {
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.testimonial blockquote {
+    font-size: 60px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    line-height: 70px;
+    padding-bottom: 70px;
+}
+.testimonial blockquote b{
+    color: #13a7cc;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.testimonial a {
+    font-size: 30px;
+    color: #cc1313;
+    line-height: 30px;
+}
+blockquote .author_name {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.testimonial blockquote .author_name { margin-top: 35px; }
+a.btn_itunes {
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    background: #343434;
+    display: block;
+    padding: 16px;
+}
+a.btn_itunes:hover{
+    background:#cc1313;
+}
+.testimonial a.btn_itunes {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.btn_itunes:hover { color: #fff; }
+.btn_itunes span {
+    border-radius: 50%;
+    border: 1px solid #fff;
+    height: 30px;
+    width: 30px;
+    font-size: 18px;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 16px;
+}
+/*==========================
+Media
+==========================*/
 .media_widget {
     padding-top: 20px;
     color: #cc1313;
@@ -1205,7 +1296,97 @@ div.playlist_expander{
     color:#13a7cc;
     margin-bottom:30px;
 }
-
+/*==========================
+Tour
+==========================*/
+.tours_widget {
+    width: 100%;
+    color: #fff;
+    font-size: 18px;
+    padding-top: 90px;
+}
+.tour_row_header,.music_row_header{
+    color: #cc1313;
+    display: table;
+    clear: both;
+    width: 70%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.tours_widget .column_one {
+    width: 100px;
+    float: left;
+}
+.tours_widget .column_two,.music_widget .column_two {
+    width: 70px;
+    float: left;
+}
+.tours_widget .column_three {
+    width: 285px;
+    float: left;
+}
+.tours_widget .column_four {
+    width: 265px;
+    float: left;
+}
+.tours_widget .column_five {
+    width: 280px;
+    float: left;
+}
+.tours_widget .column_six {
+    width: 164px;
+    float: left;
+}
+.tour_row, .music_row {
+    display: table;
+    clear: both;
+    width: 70%;
+    border-top: 1px solid #343434;
+    border-bottom: 0px solid #fff;
+    padding-bottom: 1px;
+}
+.tour_row:last-child, .music_row:last-child { border-bottom: 1px solid #343434; }
+.tour_row:hover {
+    border-color: #cc1313;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 0;
+}
+.tour_row .column_one, .tour_row .column_three, .tour_row .column_four, .tour_row .column_five {
+    padding-top: 28px;
+    padding-bottom: 24px;
+}
+.tour_row .column_five { color: #5c5c5c; }
+.tour_row .column_two,.music_row .column_two {
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.tour_row .column_six,.music_row .column_eight {
+    padding-top: 18px;
+    padding-bottom: 17px;
+}
+.tour_row .column_two img,.music_row .column_two img {
+    width: 53px;
+    height: 53px;
+}
+.btn_buy_ticket, .btn_watch_video {
+    background: #fff;
+    color: #222222;
+    padding: 14px 0;
+    text-align: center;
+    width: 100%;
+    border-radius: 0;
+}
+.btn_buy_ticket:hover {
+    background: #cc1313;
+    color: #fff;
+}
+.sold_out, .sold_out:hover {
+    background: #ffae00;
+    cursor: not-allowed;
+}
+/*==========================
+music popup
+==========================*/
 #track_detail{
     position:relative;
     height:0;
@@ -1215,7 +1396,6 @@ div.playlist_expander{
     height:500px;
     overflow:hidden;
 }
-
 #track_detail.track_loaded{
     height:auto;
 }
@@ -1349,6 +1529,9 @@ ul.music_widget > li{
     top:100%;
 }
 
+/*====================================
+Footer
+===================================*/
 footer,footer.parallax{
     margin-bottom:0;
 }
@@ -1359,6 +1542,9 @@ footer,footer.parallax{
 .copyrights a:hover{
     color:#cc1313;
 }
+/*====================================
+Media Queries
+===================================*/
 
 @media (min-width: 600px) {
     .news_info_wrapper, .track_info_wrapper,.hover,.btn{
@@ -1428,9 +1614,26 @@ footer,footer.parallax{
     .preload_logo{
         left:0;
     }
+    /*#jpreLoader{
+        max-width:220px;
+        margin-left:60px;
+    }*/
 }
 
 @media (max-width: 1024px) {
+    /*.preload_logo{
+        position:relative;
+        left:auto;
+        right:auto;
+        top:auto;
+    }
+   #jpreLoader{
+        margin-left:0px;
+        font-size:25px;
+    }
+    #jprePercentage {
+        right: auto;
+    }*/
 
     .vegas-controls li a{
         display:inline-block;
@@ -1837,3 +2040,8 @@ footer,footer.parallax{
         top:0;
     }
 }
+
+
+
+
+
